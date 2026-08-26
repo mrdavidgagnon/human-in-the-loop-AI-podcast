@@ -14,17 +14,13 @@ Approximately fifteen minutes. A playful interviewer-style synthesis with Dr. Ro
    - Supports: design-based development of game-based structural debriefing through a focus group, three design workshops, iterative curriculum design, and implementation by three teachers.
    - Boundary: design and implementation evidence demonstrates a usable possibility, not a universal causal effect.
 
-3. Karen Schrier, editor. *Learning, Education, and Games, Volume 3: 100 Games to Use in the Classroom and Beyond.* ETC Press, Carnegie Mellon University, 2019. [Zotero file](https://www.zotero.org/djgagnon/items/97KF32WL) · [ETC Press record](https://press.etc.cmu.edu/index.php/product/learning-education-games-volume-3/)
-   - Supports: a practitioner-facing edited collection of examples for connecting games to classroom purposes.
-   - Boundary: examples and design cases are not a common-effect trial; claims must remain attached to their individual contexts.
-
-Only three uniquely assigned focal Zotero works were available for this episode. The production deliberately does not recycle focal articles from episodes 002 or 004 merely to reach five.
+Only two article-focused focal Zotero works are used in this episode. The edited volume is produced separately as a single-source episode, per the production rule.
 
 ## Background source
 
 4. National Academies of Sciences, Engineering, and Medicine. *How People Learn II: Learners, Contexts, and Cultures.* Washington, DC: The National Academies Press, 2018. [Publisher record and open text](https://doi.org/10.17226/24783)
    - Background use: authoritative context for aligning technology with learning goals, learner characteristics, setting, and supports, and for the roles of feedback, reflection, and revision.
-   - Boundary: a consensus synthesis, not a test of the three focal works or of a particular game.
+   - Boundary: a consensus synthesis, not a test of the two focal works or of a particular game.
 
 ## Listener access and production note
 

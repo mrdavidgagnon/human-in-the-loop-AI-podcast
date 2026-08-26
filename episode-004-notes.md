@@ -18,11 +18,7 @@ Approximately fifteen minutes. A playful interviewer-style synthesis with Dr. Ro
    - Supports: a laboratory study with 123 participants; process-oriented feedback improved transfer, with bounded findings concerning cognitive load, recall, and immersion.
    - Boundary: one short conference report and one AR-game implementation do not establish a universal narrative or feedback effect.
 
-4. Nathan Holbert, Daisy Rutstein, Matthew Berland, Betsy DiSalvo, Jeremy Roschelle, Vishesh Kumar, Satabdi Basu, Reina Fujii, and Beth Pinzur. *Playful Testing: Designing a Formative Assessment Game for Data Science.* ETC Press, 2022. [Zotero file](https://www.zotero.org/djgagnon/items/ME88PUW3) · [Publisher PDF](https://press.etc.cmu.edu/file/download/2241/5fff07a5-fc66-45c2-8585-e76e1ccaa188)
-   - Supports: a book-length design account treating game activity as evidence in formative assessment.
-   - Boundary: a design account does not make embedded assessment automatically valid, fair, or generalizable.
-
-5. Andrea A. diSessa and Paul Cobb. “Ontological Innovation and the Role of Theory in Design Experiments.” *The Journal of the Learning Sciences* 13(1), 2004, pp. 77–103. [Zotero file](https://www.zotero.org/djgagnon/items/CWE62TKC) · [DOI](https://doi.org/10.1207/s15327809jls1301_4)
+4. Andrea A. diSessa and Paul Cobb. “Ontological Innovation and the Role of Theory in Design Experiments.” *The Journal of the Learning Sciences* 13(1), 2004, pp. 77–103. [Zotero file](https://www.zotero.org/djgagnon/items/CWE62TKC) · [DOI](https://doi.org/10.1207/s15327809jls1301_4)
    - Supports: a methodological account of developing explanatory constructs through iterative design research and requiring theory to do consequential design work.
    - Boundary: methodology and examples, not an intervention study about games or emotion.
 
