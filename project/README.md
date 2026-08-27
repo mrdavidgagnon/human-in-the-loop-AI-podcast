@@ -35,6 +35,21 @@ The spoken citation can appear when an article is introduced or in a dedicated
 source segment. Clarity matters more than citation-style punctuation; all five
 bibliographic elements must be audible.
 
+## Robust production tooling
+
+Use [pipeline/ROBUST_PIPELINE.md](pipeline/ROBUST_PIPELINE.md) and
+`pipeline/robust_pipeline.py` for new production work. The wrapper keeps a
+durable ledger and inventory, serializes mutating operations with a lock,
+requires the three-reviewer gate, performs deterministic preflight checks,
+resumes rendering from valid parts with atomic outputs, and verifies local or
+explicitly requested remote feed/audio/notes checks. `publish` is local-only:
+it never commits, pushes, or uploads. Start a ledger with:
+
+```sh
+python3 pipeline/robust_pipeline.py reconcile --write
+python3 pipeline/robust_pipeline.py status
+```
+
 ## Repository and feed names
 
 `human-in-the-loop-ai-podcast` is the project/repository name. The podcast title

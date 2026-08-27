@@ -1,0 +1,174 @@
+{
+  "episodes": {
+    "002": {
+      "artifacts": {
+        "audio": [
+          "episodes/002/can-we-see-learning-in-the-game.mp3"
+        ],
+        "notes": "episodes/002/episode-notes.md"
+      },
+      "attempts": 0,
+      "checks": {},
+      "errors": [],
+      "sources": [
+        "LS4U9RDW",
+        "SNR97HXI",
+        "Z4RME73N",
+        "CP694EPH",
+        "R4GVL9SN",
+        "XDYFELXE"
+      ],
+      "status": "published",
+      "transitions": [
+        {
+          "at": "2026-08-27T02:36:17Z",
+          "from": null,
+          "reason": "imported from manifest",
+          "to": "published"
+        }
+      ]
+    },
+    "003": {
+      "artifacts": {
+        "audio": [
+          "episodes/003/when-a-game-needs-a-teacher.mp3"
+        ],
+        "notes": "episodes/003/episode-notes.md"
+      },
+      "attempts": 0,
+      "checks": {},
+      "errors": [],
+      "sources": [
+        "67TNQNST",
+        "V52FZLXT"
+      ],
+      "status": "published",
+      "transitions": [
+        {
+          "at": "2026-08-27T02:36:17Z",
+          "from": null,
+          "reason": "imported from manifest",
+          "to": "published"
+        }
+      ]
+    },
+    "004": {
+      "artifacts": {
+        "audio": [
+          "episodes/004/the-feeling-learner-and-the-evidence-trail.mp3"
+        ],
+        "notes": "episodes/004/episode-notes.md"
+      },
+      "attempts": 0,
+      "checks": {},
+      "errors": [],
+      "sources": [
+        "6SLNA7ZV",
+        "25FRUUXF",
+        "PMHSYCZM",
+        "CWE62TKC"
+      ],
+      "status": "published",
+      "transitions": [
+        {
+          "at": "2026-08-27T02:36:17Z",
+          "from": null,
+          "reason": "imported from manifest",
+          "to": "published"
+        }
+      ]
+    },
+    "005": {
+      "artifacts": {
+        "audio": [
+          "episodes/005/what-can-a-hundred-games-teach-a-teacher.mp3"
+        ],
+        "notes": "episodes/005/episode-notes.md"
+      },
+      "attempts": 0,
+      "checks": {},
+      "errors": [],
+      "sources": [
+        "97KF32WL"
+      ],
+      "status": "published",
+      "transitions": [
+        {
+          "at": "2026-08-27T02:36:17Z",
+          "from": null,
+          "reason": "imported from manifest",
+          "to": "published"
+        }
+      ]
+    },
+    "006": {
+      "artifacts": {
+        "audio": [
+          "episodes/006/can-play-become-evidence.mp3"
+        ],
+        "notes": "episodes/006/episode-notes.md"
+      },
+      "attempts": 0,
+      "checks": {},
+      "errors": [],
+      "sources": [
+        "ME88PUW3"
+      ],
+      "status": "published",
+      "transitions": [
+        {
+          "at": "2026-08-27T02:36:17Z",
+          "from": null,
+          "reason": "imported from manifest",
+          "to": "published"
+        }
+      ]
+    },
+    "007": {
+      "artifacts": {
+        "audio": [
+          "episodes/007/when-does-a-game-trace-become-evidence.mp3"
+        ],
+        "notes": "episodes/007/episode-notes.md"
+      },
+      "attempts": 0,
+      "checks": {
+        "review_gate": {
+          "episode": "007",
+          "issues": [],
+          "ok": true,
+          "panel": "episodes/007/review-panel.md",
+          "reviewers": [
+            "Mara Chen, EDM and validity",
+            "Nia Okafor, learning sciences and complexity",
+            "Theo Alvarez, OpenGameData community"
+          ]
+        }
+      },
+      "errors": [],
+      "sources": [
+        "EVXUJ7VA",
+        "E4V92SVH",
+        "3T6P8QGD"
+      ],
+      "status": "published",
+      "transitions": [
+        {
+          "at": "2026-08-27T02:36:17Z",
+          "from": null,
+          "reason": "imported from manifest",
+          "to": "verified"
+        },
+        {
+          "at": "2026-08-27T02:39:21Z",
+          "from": "verified",
+          "reason": "local feed built and verified; remote push remains manual",
+          "to": "published"
+        }
+      ]
+    }
+  },
+  "pipeline": "human-in-the-loop-ai-podcast",
+  "schema_version": 1,
+  "updated_at": "2026-08-27T02:42:44Z"
+}

@@ -1,0 +1,3890 @@
+{
+  "duplicate_sources": {},
+  "files": [
+    {
+      "episode": "002",
+      "mtime_ns": 1787718209071707164,
+      "path": "episodes/002/can-we-see-learning-in-the-game.mp3",
+      "sha256": "3174e55a23250b99bf399d940edae947181c74f65f72da185340c5aabf2a04ff",
+      "size": 14202284
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718206092410630,
+      "path": "episodes/002/concat.txt",
+      "sha256": "81e8dbb53887d40343ad28cec8c2d6178d6f0e77f95a49e556beefb82e9af9da",
+      "size": 4564
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718119707559898,
+      "path": "episodes/002/episode-notes.md",
+      "sha256": "306bcf856ec15308dc03540097681ef14c5c686c5776b3e8b8c342a9a73bf081",
+      "size": 3996
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714419415371468,
+      "path": "episodes/002/parts/000-host.mp3",
+      "sha256": "b5012d6a38eb849f049d234f7165f75c0ae042f775c01d1253f0097114ccf37f",
+      "size": 169200
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714421625401506,
+      "path": "episodes/002/parts/001-guest.mp3",
+      "sha256": "da807d5d493806e58d12d37da3c7d0d6cff0fd2f6a7c666000e6ff23871420d0",
+      "size": 129024
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714428754498380,
+      "path": "episodes/002/parts/002-host.mp3",
+      "sha256": "98c9e8227b0ee7e0a765658c77e5256008d59faa9d28be1c52d89bb8aa1fa2a9",
+      "size": 32832
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714433187558605,
+      "path": "episodes/002/parts/003-guest.mp3",
+      "sha256": "afcaf682e9d1534b2fbd731b4aa360db405ef2d32917d621460ff85fbefe05af",
+      "size": 133200
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714440993664626,
+      "path": "episodes/002/parts/004-host.mp3",
+      "sha256": "3e3187a2fe88226dac9cb4a9c3b46ff99b38a07c44e16eb74b3381de00f7d74f",
+      "size": 32976
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714445838730413,
+      "path": "episodes/002/parts/005-guest.mp3",
+      "sha256": "212f6eeead684c8103f19e68a6f82684f69979db59c92dffc2b2d9d7ebd1e091",
+      "size": 167616
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714451455806669,
+      "path": "episodes/002/parts/006-host.mp3",
+      "sha256": "db025dab0b4a92164eb7574ed7de16b70041a9339e4d7dab12f7fa7494bbdb34",
+      "size": 37728
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714456054869090,
+      "path": "episodes/002/parts/007-guest.mp3",
+      "sha256": "bcb0d063b4dad37ec59dc245270be8c639869b2cd2d615bb02ee4f270ec56de9",
+      "size": 163008
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714459473915487,
+      "path": "episodes/002/parts/008-host.mp3",
+      "sha256": "aab7a6508c7724c06a7841f45e9b68428e9d3bdb8675621686862f67f0e9b645",
+      "size": 22464
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714462637958419,
+      "path": "episodes/002/parts/009-guest.mp3",
+      "sha256": "54c3865fdbbfad5b64a65a6d6612f22f039115f63bde92ad7e832c08f521aeac",
+      "size": 151056
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714467866029345,
+      "path": "episodes/002/parts/010-host.mp3",
+      "sha256": "0a2b27b34abb5e5c5d3ba2d91b524cb1a6c9292365554102b41aed50429fca67",
+      "size": 43056
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714470153060367,
+      "path": "episodes/002/parts/011-guest.mp3",
+      "sha256": "8252191f7b1df02d48e9dc63f0ffecc11fc22e9e0033f9a78a10d54d73c62f9d",
+      "size": 155808
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714475918138554,
+      "path": "episodes/002/parts/012-host.mp3",
+      "sha256": "ed1cf20b28c48d191a05bd79fe381115f30702536c1b5eecb2f0ea77684cfe3f",
+      "size": 48384
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714481222210474,
+      "path": "episodes/002/parts/013-guest.mp3",
+      "sha256": "031ac36d8ae76f1274d7e38efc14edd69568b78bf57c5f94008f68d9a7f4455c",
+      "size": 174384
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714486685284533,
+      "path": "episodes/002/parts/014-host.mp3",
+      "sha256": "88e91f529f286560d87d845d923965e9f37d1c4ddb6f487c5e2504904fd4dd5d",
+      "size": 41472
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714488565310016,
+      "path": "episodes/002/parts/015-guest.mp3",
+      "sha256": "845b5183cc5752f36604ab17d2cf8c097745a3b59b2e5dfe4254cb0f765c0ffd",
+      "size": 124128
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714494952396577,
+      "path": "episodes/002/parts/016-host.mp3",
+      "sha256": "1ce9ae645174bb096c91cf6530eb745feeed1dda960ef67ea5599c0ca54976aa",
+      "size": 43056
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714500554472483,
+      "path": "episodes/002/parts/017-guest.mp3",
+      "sha256": "70aa722aea3d7837ebc7c8fd58719e45b6bebe70c6399aac831814fafee24f77",
+      "size": 176112
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714504779529720,
+      "path": "episodes/002/parts/018-host.mp3",
+      "sha256": "145d90fb5d2b9b6fade47b6e3486a17bebb696e7de336a9147d24ddb9fa0408e",
+      "size": 24912
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714508545580731,
+      "path": "episodes/002/parts/019-guest.mp3",
+      "sha256": "9a5624c007de837b9c0dab3d7a623690aca61518f222f9fc21ad034fe67dd13a",
+      "size": 160560
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714518369713768,
+      "path": "episodes/002/parts/020-host.mp3",
+      "sha256": "003f9f66a39c686d310182f9bcda309849a74ffc3306469f312a49f3d3d7e1b6",
+      "size": 55152
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714520312740074,
+      "path": "episodes/002/parts/021-guest.mp3",
+      "sha256": "458aca37d55dd86546d43bc43de3e4672638092bfc23cb75a332691a09324372",
+      "size": 152640
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714523757786713,
+      "path": "episodes/002/parts/022-host.mp3",
+      "sha256": "e3157e71cd83f6c8e304d369b6415530460c4b053a43e94b5bf9dcaf77baa83b",
+      "size": 27072
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714526102818456,
+      "path": "episodes/002/parts/023-guest.mp3",
+      "sha256": "01f56c1935f0dd55473f67a48f9271f6381c1d0a73d796d2488ec846854cb826",
+      "size": 162432
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714531443890744,
+      "path": "episodes/002/parts/024-host.mp3",
+      "sha256": "09bb3f72ad49af70feecb8f4ac77ac77fa0a4d8ceb472830dc17a4af087d5bb6",
+      "size": 30096
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714532835909582,
+      "path": "episodes/002/parts/025-guest.mp3",
+      "sha256": "dfbdb469f2e49eac025f6938c86d924756c9bbd2467ad66b59bbbce20f038f0c",
+      "size": 155952
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714595096751254,
+      "path": "episodes/002/parts/026-host.mp3",
+      "sha256": "dd2e8a33514f2ed86ec286a6407c38e6c01a551ab10d75c1d0d7ea9692bac683",
+      "size": 27792
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714596079764529,
+      "path": "episodes/002/parts/027-guest.mp3",
+      "sha256": "1799f1fe847bc46fd053357cf2a3dfd8ca887694b2a00e1dc6a9ca5c7f69249c",
+      "size": 87408
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714599305808094,
+      "path": "episodes/002/parts/028-host.mp3",
+      "sha256": "c0f0b31c308f91469ee81933089d7ba57267395ab45c9fc3328e0c9d138b6c61",
+      "size": 17424
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714601979844201,
+      "path": "episodes/002/parts/029-guest.mp3",
+      "sha256": "37f28fe702fbb025d378dd880219308111d77124b63205210cbb8ac316cfe8a6",
+      "size": 168912
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714607265915569,
+      "path": "episodes/002/parts/030-host.mp3",
+      "sha256": "46a24235e061a7ca5df5b31309154596513ca8f3c386ef8b9fe82cda489662db",
+      "size": 43776
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714609648947739,
+      "path": "episodes/002/parts/031-guest.mp3",
+      "sha256": "86f491b6da0bee8b2364ea789f6da0c4360f8eb13f1e299e89825df2368993fd",
+      "size": 156096
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714615463026218,
+      "path": "episodes/002/parts/032-host.mp3",
+      "sha256": "11464637ad6f8740c79b01b8d67450df1c844ee3aea30e9c70dc87d7f64fe175",
+      "size": 37872
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714617375052023,
+      "path": "episodes/002/parts/033-guest.mp3",
+      "sha256": "b747318a101fc9af154d790a8929dde65087f2198976725d1c451e80627eccc1",
+      "size": 142128
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714621211103792,
+      "path": "episodes/002/parts/034-host.mp3",
+      "sha256": "92fb7444afb5b68660f3a48c93bdfa76b96a1b87b33f7ecd0f25c17522fcf1d9",
+      "size": 32832
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714624206144207,
+      "path": "episodes/002/parts/035-guest.mp3",
+      "sha256": "5914c54a440396d91fc2fccd72cba8569e65e07c7efecaa4128dd4ab53bbc82d",
+      "size": 141120
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714628681204589,
+      "path": "episodes/002/parts/036-host.mp3",
+      "sha256": "1bca495ab8753cf9875147fe216994ccdbfaf6c2accc1db2eddef044b1be81bf",
+      "size": 45648
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714630080223462,
+      "path": "episodes/002/parts/037-guest.mp3",
+      "sha256": "9d9212d5dcbfdd694030a817480260483ae3e4fd805001c6c4310abafcc76a8a",
+      "size": 133056
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714637893328858,
+      "path": "episodes/002/parts/038-host.mp3",
+      "sha256": "db0a51f6402676de8e79eab8dfd92c58910457e9f4780363605781044e21b61b",
+      "size": 44640
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714639519350790,
+      "path": "episodes/002/parts/039-guest.mp3",
+      "sha256": "71a3aa2aa91d738d2d7fe10f3d791870f0903fe37c2003ce79a4e0c31cb2899b",
+      "size": 161136
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714643582405586,
+      "path": "episodes/002/parts/040-host.mp3",
+      "sha256": "ac6639fab5736690c4ab2404e92430363f0d1255c49cb0ac517c244732e576c5",
+      "size": 26496
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714646928450709,
+      "path": "episodes/002/parts/041-guest.mp3",
+      "sha256": "e4df05f0f90dcf67bb416a7c45d102272b09fb7600c023f0f31c8dc925d44868",
+      "size": 176832
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714649807489530,
+      "path": "episodes/002/parts/042-host.mp3",
+      "sha256": "0c4de100dc21e08160f798a5d2940bd80ba588946eb17b54555b08bd23b7c811",
+      "size": 24624
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714650325496515,
+      "path": "episodes/002/parts/043-guest.mp3",
+      "sha256": "9e7ab1693e4d1efade81e6e9aa499a04c8bb88109c0c94fdc6bc53bb32e2530d",
+      "size": 14832
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714652007519193,
+      "path": "episodes/002/parts/044-host.mp3",
+      "sha256": "729792a4a4956038034c4c6961101d554a1eb1ef037d47f9e655040446d30b76",
+      "size": 11376
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714653613540847,
+      "path": "episodes/002/parts/045-guest.mp3",
+      "sha256": "10b7b0c81298c8f9500cdbe2d8d5ea2d817b66a62045a3b2858186a1cfef4563",
+      "size": 153648
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714655239562768,
+      "path": "episodes/002/parts/046-host.mp3",
+      "sha256": "57e8961a21d2d29cb30980954eb8898f723c2a51e2694240fc9dd79f0e4fdb61",
+      "size": 10656
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714656512579930,
+      "path": "episodes/002/parts/047-guest.mp3",
+      "sha256": "681d1315f2834d74f5854d7d91f1e7c047ec65b7bf712ad1a657293585bfc7ad",
+      "size": 62928
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714667219724254,
+      "path": "episodes/002/parts/048-host.mp3",
+      "sha256": "393902bc254749e75cddb1d72e85c3c101926500e2ed2485bba37c241e365b90",
+      "size": 104400
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714668392740062,
+      "path": "episodes/002/parts/049-guest.mp3",
+      "sha256": "be569a6ab289d88d0b49ed42074527cc79c85edc46ecf094e55bdb6c86f2843f",
+      "size": 48960
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787714672534795881,
+      "path": "episodes/002/parts/050-host.mp3",
+      "sha256": "1c104ddc89d54c130f0645229371c65de522327fd624f8be8376cdeb470758f5",
+      "size": 28944
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718129452684933,
+      "path": "episodes/002/parts-v2/000-host.mp3",
+      "sha256": "f464504dd6e93b63843c8d5fdc73e9764efafbaa53ff82ac5d68229d2e57d1d2",
+      "size": 169200
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718132071718540,
+      "path": "episodes/002/parts-v2/001-guest.mp3",
+      "sha256": "2ab6ac988680c3aa5abb40a8d4bca45f506276f101a86e3d882417c2a2371e3b",
+      "size": 199872
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718132474723711,
+      "path": "episodes/002/parts-v2/002-host.mp3",
+      "sha256": "fd2347fc8d750461e12248d065b05c7107a96f640add37349febcc284fc30304",
+      "size": 32832
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718133418735825,
+      "path": "episodes/002/parts-v2/003-guest.mp3",
+      "sha256": "cfd777a74e1e7f1a013d49dbbc73fe02889d18f7c87054fce8b14145ee16e0fe",
+      "size": 133200
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718133912742164,
+      "path": "episodes/002/parts-v2/004-host.mp3",
+      "sha256": "8229f450aa980bc4dbde5f8368c709551cebfb24a8924b9ed79b88682428bc43",
+      "size": 32976
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718136830779610,
+      "path": "episodes/002/parts-v2/005-guest.mp3",
+      "sha256": "f058ba5657f41e1778bc965603fedde167fa32686516e934383df7db762cf829",
+      "size": 303840
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718137249784987,
+      "path": "episodes/002/parts-v2/006-host.mp3",
+      "sha256": "f48a18449e459bff18e36bcb3a1b4dbcc1880e6191a737c211c210ee2d0a5b08",
+      "size": 37728
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718138122796191,
+      "path": "episodes/002/parts-v2/007-guest.mp3",
+      "sha256": "2d23e34548c363d75dd9425357c6a6f251cb2372f88638355c00fb7e55f5e01f",
+      "size": 163008
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718138534801478,
+      "path": "episodes/002/parts-v2/008-host.mp3",
+      "sha256": "16d8c58870f6df462bba4e0568cb375f1ea3dfa2de6660ee2cbfe1b9051f294e",
+      "size": 22464
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718139323811604,
+      "path": "episodes/002/parts-v2/009-guest.mp3",
+      "sha256": "46b412c19595df1e47d66ebac01fd5a24be7bd5881c0efc2c4b83f2c7376dbd1",
+      "size": 151056
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718139959819766,
+      "path": "episodes/002/parts-v2/010-host.mp3",
+      "sha256": "93738ddaf0704cbad85f637bad62638176e32e86d254c2c6b9bd285d5e264b93",
+      "size": 43056
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718145923896310,
+      "path": "episodes/002/parts-v2/011-guest.mp3",
+      "sha256": "e62ce4f25e1d5d5e138687049715883b0ceedf0baae6354e522d273594b05a32",
+      "size": 249408
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718146477903420,
+      "path": "episodes/002/parts-v2/012-host.mp3",
+      "sha256": "665302c765140200eb82730dc4aea6d53501cf8c54ae5277e2a816ac97baeccb",
+      "size": 48384
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718147209912815,
+      "path": "episodes/002/parts-v2/013-guest.mp3",
+      "sha256": "7f7acbe26886fb6dabb158c21678121bd5ceafb0ef54007e8be1cd14ffc48871",
+      "size": 174384
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718147804920452,
+      "path": "episodes/002/parts-v2/014-host.mp3",
+      "sha256": "809796141e62f61fe088e78729ff429a278cd0b7f677795fc1235a81507d5a8e",
+      "size": 41472
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718148429928474,
+      "path": "episodes/002/parts-v2/015-guest.mp3",
+      "sha256": "483fbd2b4dffe6eb48b5c39cb6fd8c2ce497053827544b53cc870d0202dfced0",
+      "size": 124128
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718148893934430,
+      "path": "episodes/002/parts-v2/016-host.mp3",
+      "sha256": "ffcf04b9f28d01f20f3b154fe5d4011bfa62065a3da8fed9c60948883bbae234",
+      "size": 43056
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718152484980523,
+      "path": "episodes/002/parts-v2/017-guest.mp3",
+      "sha256": "9e4c71e8510d2364f9cc32a18944f5bee1aaabbf36003b29c58db982165e4c28",
+      "size": 305568
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718152961986646,
+      "path": "episodes/002/parts-v2/018-host.mp3",
+      "sha256": "afcd32ea6859f51ee1cced0d301ffb7d4590ffdace77f5a7f97a95825c126eed",
+      "size": 24912
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718153852998083,
+      "path": "episodes/002/parts-v2/019-guest.mp3",
+      "sha256": "320e6c6d6ff8633c1140c60e54995d3d757873b8bc244289c7551c6cc46e9601",
+      "size": 160560
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718154349004450,
+      "path": "episodes/002/parts-v2/020-host.mp3",
+      "sha256": "889a9b81aa1f9c24d9e3ca043e7b85cfa8d680847d6d0f0317c4d5da1b92448e",
+      "size": 55152
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718157347042935,
+      "path": "episodes/002/parts-v2/021-guest.mp3",
+      "sha256": "3e243c2276b83d5f9140d1a68edf88592a1335f818358b3d3cc8ae1a2a7a430e",
+      "size": 231408
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718157846049341,
+      "path": "episodes/002/parts-v2/022-host.mp3",
+      "sha256": "9fef3aae6115b9bb4a8b22268d33a3e632e227a51d0499188a75062c17ab2500",
+      "size": 27072
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718158607059110,
+      "path": "episodes/002/parts-v2/023-guest.mp3",
+      "sha256": "e8fdcb7152b0341ebaf6ba15ebaeaad0e4f8ecbded1fb77e5b61a0dcf01b39d2",
+      "size": 162432
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718160188079406,
+      "path": "episodes/002/parts-v2/024-host.mp3",
+      "sha256": "890d7c0ea46d007d81a71b3d29cf9f7aaa07b701a4f580ec5cebac081d7334cb",
+      "size": 30096
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718160932088957,
+      "path": "episodes/002/parts-v2/025-guest.mp3",
+      "sha256": "6f2dc9a0f83a995b6b5b911b1f47cb304c896cb751d69552096d8e6540a8a9d7",
+      "size": 155952
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718161248093014,
+      "path": "episodes/002/parts-v2/026-host.mp3",
+      "sha256": "6bb31d135ea43873f0f20cf621d55e620f1c0e5e99db96508b99b5afef1ec852",
+      "size": 27792
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718161912101538,
+      "path": "episodes/002/parts-v2/027-guest.mp3",
+      "sha256": "e355087b10a5a1880f55f6a74716b3027d7e33faebe87d411101c4a0e713f374",
+      "size": 87408
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718162429108175,
+      "path": "episodes/002/parts-v2/028-host.mp3",
+      "sha256": "e48a662d66cf3bb8b39e89c222512fc42d090d9dfea831794d3c8ddb40690800",
+      "size": 17424
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718164942140438,
+      "path": "episodes/002/parts-v2/029-guest.mp3",
+      "sha256": "c7e3be501ff279649df2d2c762d86a839d47c2e96d7a433bee8989e9b584eb81",
+      "size": 300672
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718166475160120,
+      "path": "episodes/002/parts-v2/030-host.mp3",
+      "sha256": "394d15e3aac176cb398feca10d9bd8ed592d669b085091b78938bef48ce2d654",
+      "size": 43776
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718167200169428,
+      "path": "episodes/002/parts-v2/031-guest.mp3",
+      "sha256": "566e057ef485c450ced003f826ba3253bb16da2212082aa8b788b96f4338248b",
+      "size": 156096
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718167672175488,
+      "path": "episodes/002/parts-v2/032-host.mp3",
+      "sha256": "7822e668775d8d91ee79821eabf574deabb64ebe76141b4190570725641991b2",
+      "size": 37872
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718168397184796,
+      "path": "episodes/002/parts-v2/033-guest.mp3",
+      "sha256": "2596a1be31f4da52f2f0bb620687309901f9bb5427639c0542ee74dffaf479bb",
+      "size": 142128
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718168843190522,
+      "path": "episodes/002/parts-v2/034-host.mp3",
+      "sha256": "ecb2ec7c8576f04e6d1d0ff0d92394ba181b6beddec6ef1cddceb3c9a7359bac",
+      "size": 32832
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718171988230903,
+      "path": "episodes/002/parts-v2/035-guest.mp3",
+      "sha256": "5787bc90d5fcbefcb46bc50d9fe62e672b8fd8bc8c2aab0684bc8ca88377f161",
+      "size": 255888
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718172525237798,
+      "path": "episodes/002/parts-v2/036-host.mp3",
+      "sha256": "698f2628badca85a8cabafb3da4a6a87819a17364e18718cb096f9e728779ec7",
+      "size": 45648
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718173288247594,
+      "path": "episodes/002/parts-v2/037-guest.mp3",
+      "sha256": "48aa8ded0326f51c452d305d99382da6482833b29de558ff3370a3a0f3ab0453",
+      "size": 133056
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718173757253616,
+      "path": "episodes/002/parts-v2/038-host.mp3",
+      "sha256": "0826d08a606f22e23e2bc094feece3a38ecf63418d0edb49dd717be5f46a5651",
+      "size": 44640
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718175918281364,
+      "path": "episodes/002/parts-v2/039-guest.mp3",
+      "sha256": "f595c309e01f5a760486d430f16e9553600c0239b5375a3648623c6fb147408d",
+      "size": 161136
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718176204285037,
+      "path": "episodes/002/parts-v2/040-host.mp3",
+      "sha256": "c095c3daf6c1b7eebc9e9f23779107d2969f4ff97634eeb1ca9a38f74908de83",
+      "size": 26496
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718177048295874,
+      "path": "episodes/002/parts-v2/041-guest.mp3",
+      "sha256": "06499da6830e12748650cb006a2eff3d9655b2ce16e31f7af195660ba2221cfd",
+      "size": 176832
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718177406300471,
+      "path": "episodes/002/parts-v2/042-host.mp3",
+      "sha256": "2a5c18f017b33312c3ed76f43983b42532c4e1657e9994c4e70e956d95e109f1",
+      "size": 24624
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718177724304554,
+      "path": "episodes/002/parts-v2/043-guest.mp3",
+      "sha256": "c6d0c5fe3049d6b5ced8bde12fe37079dddf7cd49e726c5c4cc232076e2c803c",
+      "size": 14832
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718178221310936,
+      "path": "episodes/002/parts-v2/044-host.mp3",
+      "sha256": "5f44e395b257aab0075530fe86ecfef974a3c346a91e1a195859e44aecaa1caf",
+      "size": 11376
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718178950320297,
+      "path": "episodes/002/parts-v2/045-guest.mp3",
+      "sha256": "eb35349a2bdb87c54e531081fa1d4835405a0490d26199b75948d68e3e287bca",
+      "size": 153648
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718179359325550,
+      "path": "episodes/002/parts-v2/046-host.mp3",
+      "sha256": "32e16b7fdb60de5b9d928e46b29e7127d5fae5e46bd421587cd7096c1bc995ac",
+      "size": 10656
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718179894332420,
+      "path": "episodes/002/parts-v2/047-guest.mp3",
+      "sha256": "45940ce7feace0b47c9a080b837c67118706adaed4142e45485dc75829b47293",
+      "size": 62928
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718205287658555,
+      "path": "episodes/002/parts-v2/048-host.mp3",
+      "sha256": "7335b1d018b058b45140a9082ecd3783782b79d723e5eaea6ec55181d7d22ef6",
+      "size": 156528
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718205732664271,
+      "path": "episodes/002/parts-v2/049-guest.mp3",
+      "sha256": "56171cbc7deac0fcfa9f82839072049c321ca80f339f800830923296ab0c4a76",
+      "size": 48960
+    },
+    {
+      "episode": "002",
+      "mtime_ns": 1787718206091668883,
+      "path": "episodes/002/parts-v2/050-host.mp3",
+      "sha256": "7aa7656ed827d2b96d553a3730d23871d041b73dad5503ca98adbf930b615316",
+      "size": 28944
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723579916242218,
+      "path": "episodes/003/concat.txt",
+      "sha256": "6e9b7b751770c3e8f2bac200aac846a1d5d23d9f5d08df79f1cb18f7eef770de",
+      "size": 3719
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723122833987366,
+      "path": "episodes/003/episode-notes.md",
+      "sha256": "4b6447c22b0dad319301d73e621692ca5a4cd769e7a11539cb8c84803c12aafb",
+      "size": 2749
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723534069412424,
+      "path": "episodes/003/parts/000-host.mp3",
+      "sha256": "3c39be175c02d89475a34e2e5a1cfa5aab10a3f0615c74249be61f0d7a2257e8",
+      "size": 127728
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716594984016809,
+      "path": "episodes/003/parts/001-guest.mp3",
+      "sha256": "f06d9a0902c4777cb52c022914a0ad639317533e4ee8d31915fbbe17c5a622f9",
+      "size": 116784
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723537063451835,
+      "path": "episodes/003/parts/001-rowan.mp3",
+      "sha256": "516e614893f0f7c968805d6a526bb6624d5ce286830b7ec9b2a88dd1ceabc6fa",
+      "size": 156096
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723537793461444,
+      "path": "episodes/003/parts/002-host.mp3",
+      "sha256": "6c9ac634717f3572d8d9717981922d911075902941d301bad60568a2d273c9f2",
+      "size": 19584
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716597891053691,
+      "path": "episodes/003/parts/003-guest.mp3",
+      "sha256": "9428fa2c8649a253dff42fb4847fb1f1b98a915d2884ebd4988b96a986a662de",
+      "size": 173088
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723538481470500,
+      "path": "episodes/003/parts/003-rowan.mp3",
+      "sha256": "73a4ea2ad23ec372b90b8c3f91558c9e22736bc507caf5da4ee658d03907f75d",
+      "size": 155664
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723538936476490,
+      "path": "episodes/003/parts/004-host.mp3",
+      "sha256": "a4e48cb882b46bfb7f192ac2f020cf6c473f11662b337dbfea4a451e82d22d31",
+      "size": 34992
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716599476073803,
+      "path": "episodes/003/parts/005-guest.mp3",
+      "sha256": "0e04754ffd7530de733f6f60ca7c6e7530283a0ccc7f0492c1a8b3b90009be40",
+      "size": 68976
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723540697499670,
+      "path": "episodes/003/parts/005-rowan.mp3",
+      "sha256": "35e0a080a4365dbc8ed48465fc22ff3af33b1c045d286d0f28bdc8b90d57024c",
+      "size": 102672
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723541170505896,
+      "path": "episodes/003/parts/006-host.mp3",
+      "sha256": "e253411c9e3efc64091a7a76fdb93027b8c977eedbe54d384e78a51f5b051f68",
+      "size": 23040
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716602363110439,
+      "path": "episodes/003/parts/007-guest.mp3",
+      "sha256": "2e01d357f970ba6025caf888207d0d9e2e8b23b33e6437a6e89fe704810dae74",
+      "size": 138816
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723542257520204,
+      "path": "episodes/003/parts/007-rowan.mp3",
+      "sha256": "5f5e39134724b2b0f4ac8d9f01761f7830ce42ea60c6df4af0567cc858bb53b8",
+      "size": 166752
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723542926529009,
+      "path": "episodes/003/parts/008-host.mp3",
+      "sha256": "a137c3c000514eea0baa8a52f55b08d3a69f0af0401fd18b4c8fb39e399333b0",
+      "size": 46368
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716603864129488,
+      "path": "episodes/003/parts/009-guest.mp3",
+      "sha256": "dc1a676c7bfeabefb095552f9f5ad92741a8d6f8e18ec431acaa2b60c7965fb3",
+      "size": 184176
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723544207545871,
+      "path": "episodes/003/parts/009-rowan.mp3",
+      "sha256": "356b3eaa749dc80992586b742a19391d7008f76f9d54595e879739b8441d06c4",
+      "size": 112032
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723545118557863,
+      "path": "episodes/003/parts/010-host.mp3",
+      "sha256": "e7aab325d6ba4faced1feeb55554136c94e51d3bffe25aa138625ee9ca340f2e",
+      "size": 43056
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716604912142790,
+      "path": "episodes/003/parts/011-guest.mp3",
+      "sha256": "c08624521133d82e67198f7634ee0a593372ba517e5994b1e20d07abeffb0485",
+      "size": 150192
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723546005569538,
+      "path": "episodes/003/parts/011-rowan.mp3",
+      "sha256": "a921e6c435d5c30c20549cef0420ab869ef37e99052b3e4b224356751a681cda",
+      "size": 141408
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723546398574711,
+      "path": "episodes/003/parts/012-host.mp3",
+      "sha256": "ba5801272dc5c25587c5b1462e8ea72e86bbefd69152ae44da2810e0243225a3",
+      "size": 10656
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716605986156421,
+      "path": "episodes/003/parts/013-guest.mp3",
+      "sha256": "0851873df73b765c808d1b0127bb4b6f1ae30c404b79310f0f666a35ff540ef0",
+      "size": 123552
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723547392587795,
+      "path": "episodes/003/parts/013-rowan.mp3",
+      "sha256": "70a714235c29403c46d8d8bda05f64a0222b6f1f0f2c72672df75f970f3bb5e3",
+      "size": 170064
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723547772592796,
+      "path": "episodes/003/parts/014-host.mp3",
+      "sha256": "66ce590551df383768864a0fd4f82bbea72ada7ab93c877e693fd271a65dfa4a",
+      "size": 25056
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716607096170511,
+      "path": "episodes/003/parts/015-guest.mp3",
+      "sha256": "6dfee3360bdcfc102368448249ee221249db3037d65d1a7a5120f8cbd3f68666",
+      "size": 162720
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723549247612211,
+      "path": "episodes/003/parts/015-rowan.mp3",
+      "sha256": "3e90c0d1aa5aee1225e37379de24bce66b703568e975c066d732a4e42a4afdae",
+      "size": 156384
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723549813619659,
+      "path": "episodes/003/parts/016-host.mp3",
+      "sha256": "4820f430ca435e641244495ac8bae9cf71002ab7c9f05352f3fdeab834990f3b",
+      "size": 56016
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716609942206639,
+      "path": "episodes/003/parts/017-guest.mp3",
+      "sha256": "1806e01bf749ae057fcfa0fa1017ec75c7a07fc988c2498e3bd28b86bbc2e643",
+      "size": 118224
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723550641630559,
+      "path": "episodes/003/parts/017-rowan.mp3",
+      "sha256": "5a53fca7fe600c15fe8ccaafd801877bb6de21a9cf793c6652532779efed0e36",
+      "size": 194256
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723551613643353,
+      "path": "episodes/003/parts/018-host.mp3",
+      "sha256": "2a374598f76841a8a7f2955f697e0befd0a7eb49d8c7c49707ef49610bb17ef4",
+      "size": 29376
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716611325224197,
+      "path": "episodes/003/parts/019-guest.mp3",
+      "sha256": "9f973ef04e51be4e29be4697cb275598fa98de48bb8f85be3b851f7f8ec43c46",
+      "size": 162288
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723557050714912,
+      "path": "episodes/003/parts/019-rowan.mp3",
+      "sha256": "dd9b1c5d2c16dca623b98ce427b6a6e7266bfc52a5d093e34a278f04a4f3399d",
+      "size": 163584
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723558921739538,
+      "path": "episodes/003/parts/020-host.mp3",
+      "sha256": "382ae1d16c27a400c7419bdde27d79de37cea6e2c500b7f21408b2a4d82dabc2",
+      "size": 32112
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716612581240144,
+      "path": "episodes/003/parts/021-guest.mp3",
+      "sha256": "e00991832709e31de7eb6f19abdb88196907f16fa2abda634b6bfdbbbf9f293c",
+      "size": 149616
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723559263744039,
+      "path": "episodes/003/parts/021-rowan.mp3",
+      "sha256": "104464547dd32705c5304a7e8d85921b5b000afdfe91ddb0529baf581d9952ca",
+      "size": 22464
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723559646749080,
+      "path": "episodes/003/parts/022-host.mp3",
+      "sha256": "f084f7f616dd666d583eb6d0d2e5b962e3ffec247d3b968921350b74e03c95cc",
+      "size": 34560
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716613737254821,
+      "path": "episodes/003/parts/023-guest.mp3",
+      "sha256": "a9bcbe07465c869406ec465748a6b206d1f294753a9cbcad71b457a15420966f",
+      "size": 113472
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723560323757991,
+      "path": "episodes/003/parts/023-rowan.mp3",
+      "sha256": "216377f4916ceaa2c6cae0209c44dddf962f340f2abbdb7a45c1d2aa76eb6433",
+      "size": 147456
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723560751763623,
+      "path": "episodes/003/parts/024-host.mp3",
+      "sha256": "4cf32d55dc77b39805e5daf615d5f3dd90b62bc8de0504a039eb4f7f5fa9ca10",
+      "size": 38592
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716623809382738,
+      "path": "episodes/003/parts/025-guest.mp3",
+      "sha256": "e889f09b543fa1591ecf1643fceee356bcd9b0fa8cc19f7024d192acd814f95d",
+      "size": 136944
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723562551787313,
+      "path": "episodes/003/parts/025-rowan.mp3",
+      "sha256": "613b79d387635d72cee56be48c5a7d72d644360f360bbbd5c336eafe04e857a6",
+      "size": 166752
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723563007793314,
+      "path": "episodes/003/parts/026-host.mp3",
+      "sha256": "5a9df7e8077b552fbc01d0b4e8fc94c569a053e680a0bab6989f06939bd46148",
+      "size": 13680
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716624996397817,
+      "path": "episodes/003/parts/027-guest.mp3",
+      "sha256": "dd09b5017c1e065df544c305fb73b596286bbfb2bd588f49021e33412d996b61",
+      "size": 118368
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723564292810226,
+      "path": "episodes/003/parts/027-rowan.mp3",
+      "sha256": "9126c16940facab3349b490160d999bacd1fdf70f30679ba13dae142b4d336f6",
+      "size": 123984
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723565736829231,
+      "path": "episodes/003/parts/028-host.mp3",
+      "sha256": "5cd381000013046c9f34ff50a7209e16fc2e36a44da0eb765fe04e0ac1a715d8",
+      "size": 60336
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716626880421752,
+      "path": "episodes/003/parts/029-guest.mp3",
+      "sha256": "98f01ab0b28ff7e14510d16282383cbd226431e5a2fdab756307a38ef54ea3c7",
+      "size": 172512
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723566690841786,
+      "path": "episodes/003/parts/029-rowan.mp3",
+      "sha256": "4c9057cf9d9a3f820bc4c7377ec77538c738dcb1be2c9d46ce68aa9d7db7adbe",
+      "size": 138672
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723567847857012,
+      "path": "episodes/003/parts/030-host.mp3",
+      "sha256": "3bf63335b1a118ad34d9f4a4d57cc9358b590ec478e1a19ab66d1d367e93843a",
+      "size": 33264
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716627955435409,
+      "path": "episodes/003/parts/031-guest.mp3",
+      "sha256": "23db8b416e091168cab76b80186d1623b4ae8b419eb09ae9bd30031c04eedff5",
+      "size": 111024
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723568679867962,
+      "path": "episodes/003/parts/031-rowan.mp3",
+      "sha256": "4b5edf06442afe90f27ff43a49cab0d76496cc5ee79e812fc682a7d374fa2b62",
+      "size": 166896
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723569130873897,
+      "path": "episodes/003/parts/032-host.mp3",
+      "sha256": "2cb8c2703133628c48fe2c0fd6a0826a3819c8cb190d71c92c35337be3ad0a28",
+      "size": 36720
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716628965448242,
+      "path": "episodes/003/parts/033-guest.mp3",
+      "sha256": "f8fdab303876e87772cccf3fed840c299bb87cdcddc3f8be738e0a456c513ec0",
+      "size": 195696
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723569971884965,
+      "path": "episodes/003/parts/033-rowan.mp3",
+      "sha256": "e63e8b72dfaf38f54d2bd99e47c0edb4cdee615f4848a1ccf2ae52f8a77726cf",
+      "size": 173088
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723570379890335,
+      "path": "episodes/003/parts/034-host.mp3",
+      "sha256": "fdb14688cfa3e58f15ed1faed8326bce6889bb6b88453402deb32bc1ec4df386",
+      "size": 22464
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716630242464468,
+      "path": "episodes/003/parts/035-guest.mp3",
+      "sha256": "d49b2c12f8b866fd027b2c2315edee8eaaa9cb6b8fdc3dbb06bbc29794d8d639",
+      "size": 155088
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723572882923275,
+      "path": "episodes/003/parts/035-rowan.mp3",
+      "sha256": "1747ba00eb35df58f1eaf32e56863df8f0c5e733b6f9a54cd0767f9a92c77a5f",
+      "size": 148896
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723573206927538,
+      "path": "episodes/003/parts/036-host.mp3",
+      "sha256": "85272ab3dc36100c318709853fd48dda4573969320c3d3d3f736cc84abcc2994",
+      "size": 14256
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716631954486223,
+      "path": "episodes/003/parts/037-guest.mp3",
+      "sha256": "d1bef6e0b6c6e6b1cbee3baa4b3aaf754c833e680e29aa33078d836ed4d6b516",
+      "size": 171792
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723575777961374,
+      "path": "episodes/003/parts/037-rowan.mp3",
+      "sha256": "6bcb41996b38122162580f0bed18c137da1a98a7fbf08ea35af15242075e24a5",
+      "size": 137952
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723576125965953,
+      "path": "episodes/003/parts/038-host.mp3",
+      "sha256": "4846043f7f1dfa9359bbc5e8ab2c5c64fe8ee8581a891f82dbacccc58009da63",
+      "size": 10656
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716632831497367,
+      "path": "episodes/003/parts/039-guest.mp3",
+      "sha256": "48f4a5d63a5201f45eccd54e1e1e970faa53513aa6594c1b3d74f12c4a08c842",
+      "size": 62784
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723576584971993,
+      "path": "episodes/003/parts/039-rowan.mp3",
+      "sha256": "6cceafd5827329b67645b70e68e2cc35f5f8daf52ecf64a2804f34bf75b453c3",
+      "size": 81072
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723579151005758,
+      "path": "episodes/003/parts/040-host.mp3",
+      "sha256": "641bcd0f180c7dd22803ccc51bd8a1ab93aa0d9699da0246cc8c42591d2455fd",
+      "size": 104832
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716642613621704,
+      "path": "episodes/003/parts/041-guest.mp3",
+      "sha256": "45c8b876e55e97a8398c50f329c41a720e2de5505cdefd01fbc5d2220051fe67",
+      "size": 43488
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723579517010574,
+      "path": "episodes/003/parts/041-rowan.mp3",
+      "sha256": "0e53a84d4131060ac22d3a7fe82510b9ef5a839aa58dc822670d0a09e0fff069",
+      "size": 41616
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723579913015785,
+      "path": "episodes/003/parts/042-host.mp3",
+      "sha256": "c7b515dac4980db6a6456bea45beb92140f161910adfbd52e5b0f022ea0d8977",
+      "size": 33120
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787718435359617904,
+      "path": "episodes/003/parts/043-rowan.mp3",
+      "sha256": "58c3c52c6ea39bae08571726650daca7a2edd3a9458f2869d7778604376b4fec",
+      "size": 124560
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787718442837714206,
+      "path": "episodes/003/parts/044-host.mp3",
+      "sha256": "817456eec10598158ae45f1173eb82b08e901a59b3f03a7e99a4cd655c408974",
+      "size": 42192
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787718444750738843,
+      "path": "episodes/003/parts/045-rowan.mp3",
+      "sha256": "f84657baae093f31f8a2d6484c1c0816848157a5c474109723b139c82bc4f714",
+      "size": 182736
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787718448154782682,
+      "path": "episodes/003/parts/046-host.mp3",
+      "sha256": "143f92f46972e893b2e8127218183b8192a81d1a80b90d79a8aa52eaaf3067eb",
+      "size": 27360
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787718452518838888,
+      "path": "episodes/003/parts/047-rowan.mp3",
+      "sha256": "8570595fe6ee086efa0f5218008a6321a5952a281b15499cd483f53c89d9f1af",
+      "size": 146880
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787718458496915883,
+      "path": "episodes/003/parts/048-host.mp3",
+      "sha256": "314a54a59b548b76a6fbfef1bc8181b6edd43b88b64e924896ce6acfbce42ac5",
+      "size": 44928
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787718460842946100,
+      "path": "episodes/003/parts/049-rowan.mp3",
+      "sha256": "376679de8045d6cfed9dfe224f0988186db21ad7ac7163b51d4d00f6b22c8ce6",
+      "size": 149616
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787718461271951626,
+      "path": "episodes/003/parts/050-host.mp3",
+      "sha256": "9fdb036df304df09e0529c3bc87a43baaee7e9450464b88eb2f4246503ec62e5",
+      "size": 20736
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787718462060961788,
+      "path": "episodes/003/parts/051-rowan.mp3",
+      "sha256": "2fa72e24c0a789ee7c84f36b148f9097ec9b23cfa3538908b6c93b48ac56a45d",
+      "size": 119808
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787718462489967314,
+      "path": "episodes/003/parts/052-host.mp3",
+      "sha256": "2dc58b4444d3f548842f439d1e0ee7289da31f60b11c5ad7b93faab3bbd60e07",
+      "size": 22464
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787718463026974231,
+      "path": "episodes/003/parts/053-rowan.mp3",
+      "sha256": "66b29f36bd2abf64055b47d8a554580000c41f1d0cc5915e3b49fbafc74acfa4",
+      "size": 201024
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787718463435979500,
+      "path": "episodes/003/parts/054-host.mp3",
+      "sha256": "cb73fd811d577d79b0ea63521a0567241200ceb82d8548f34c613fe61b56e207",
+      "size": 14256
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787718464100988065,
+      "path": "episodes/003/parts/055-rowan.mp3",
+      "sha256": "2364b336789fed066f93a6bf379bf81ecfafaf5918947ac4931c22711e678a22",
+      "size": 137952
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787718464501993230,
+      "path": "episodes/003/parts/056-host.mp3",
+      "sha256": "59c7ef68224ba2852c04e6c8ba8a4d1a51decc1428e99080bae3264b4fb281e1",
+      "size": 10656
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787718465117001152,
+      "path": "episodes/003/parts/057-rowan.mp3",
+      "sha256": "39d4e0cd090f8a2254f57f92d02ea324b246822bab3a8e0cc50ec0ebc790d454",
+      "size": 81072
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787718465911011379,
+      "path": "episodes/003/parts/058-host.mp3",
+      "sha256": "6abbbc21fe206022dc94e84508e2faa1784e26219f423205991f25c0ccda3c78",
+      "size": 104832
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787718466295016326,
+      "path": "episodes/003/parts/059-rowan.mp3",
+      "sha256": "b8df84d25b91a65af41a7f523aabaee7e99191aa5c5abe366c5a8be885c0fa9c",
+      "size": 41616
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787718466699021530,
+      "path": "episodes/003/parts/060-host.mp3",
+      "sha256": "0c0583388f02c24679505cf87c8544568b5af1925bc2bd4d188a79b606aaed8f",
+      "size": 33120
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714692056058870,
+      "path": "episodes/003/parts-pre-overlap-20260826/000-host.mp3",
+      "sha256": "abf53ef0f6ffd5da4054974259881fb2dba801062eacdcd4981bb4e109001940",
+      "size": 137376
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714693669080594,
+      "path": "episodes/003/parts-pre-overlap-20260826/001-guest.mp3",
+      "sha256": "19bac6c81c4d246e3a2c2127a43204733cc1439b9bcc7c7a39c908aa5452b565",
+      "size": 116784
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714697295129428,
+      "path": "episodes/003/parts-pre-overlap-20260826/002-host.mp3",
+      "sha256": "1ce233f082e92557f57906c6665bb6dd522c8de4c3d9712db8f9e991520fb332",
+      "size": 25488
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714698984152173,
+      "path": "episodes/003/parts-pre-overlap-20260826/003-guest.mp3",
+      "sha256": "8a6614d9f338ef4caaf1eb564c04368bb0caee19dccc65763778d336479dd612",
+      "size": 173088
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714702288196663,
+      "path": "episodes/003/parts-pre-overlap-20260826/004-host.mp3",
+      "sha256": "87882ebe52670fc0a3a2bc595cf27d6aa387b8f96fb8c1a73d6eb5506057b300",
+      "size": 31968
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714704270223351,
+      "path": "episodes/003/parts-pre-overlap-20260826/005-guest.mp3",
+      "sha256": "b3cb4315d1799d6f8fc478f77e11d99ec067a4a0cd6d6be469c76d07feff3e83",
+      "size": 68976
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714710112302005,
+      "path": "episodes/003/parts-pre-overlap-20260826/006-host.mp3",
+      "sha256": "4cfed148a342032accb2ae1156cb1810f7ff5b11aef9af16446a533825276cd6",
+      "size": 46944
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714711803324769,
+      "path": "episodes/003/parts-pre-overlap-20260826/007-guest.mp3",
+      "sha256": "46cd39a9f186b33ee409ef07a0514ab510e57ae7e83c4415942c4a00d55f0a37",
+      "size": 138816
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714716457387418,
+      "path": "episodes/003/parts-pre-overlap-20260826/008-host.mp3",
+      "sha256": "871109925ba417dcab1280a5b4e07d4202cf8a378106e8518bb6eec27ed6f3e6",
+      "size": 34128
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714718942420866,
+      "path": "episodes/003/parts-pre-overlap-20260826/009-guest.mp3",
+      "sha256": "bd726cf3189dbc27e7d9726cfc53b9aed2f0f1ebcd2a51a07c40bdb4993b56c5",
+      "size": 184176
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714724615497218,
+      "path": "episodes/003/parts-pre-overlap-20260826/010-host.mp3",
+      "sha256": "f8c944687fffd6a078f0b674a7e5bf003fc24daacc9f9472f9814a78a7db30bb",
+      "size": 22464
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714726287519719,
+      "path": "episodes/003/parts-pre-overlap-20260826/011-guest.mp3",
+      "sha256": "6caab423ac61d90dcea84281af39432e022d5bf654d7d910f980c366da81515e",
+      "size": 150192
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714730467575968,
+      "path": "episodes/003/parts-pre-overlap-20260826/012-host.mp3",
+      "sha256": "a177544dc63b8a26589ae6aac80bb02f3e192d64962f271f9f2a36533b498803",
+      "size": 29520
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714732038597107,
+      "path": "episodes/003/parts-pre-overlap-20260826/013-guest.mp3",
+      "sha256": "c6e03784a9b85a8a5009cb30015d939995e55a82a51f2fc542969552e94f665b",
+      "size": 123552
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714734789634121,
+      "path": "episodes/003/parts-pre-overlap-20260826/014-host.mp3",
+      "sha256": "07353f96bfbbb17a3424ab8e3a92ba64a17e9153df114898227e3b4282c9485b",
+      "size": 11376
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714737135665685,
+      "path": "episodes/003/parts-pre-overlap-20260826/015-guest.mp3",
+      "sha256": "0b7415f51c1e750b1f06f402ba4e514ceb47ed0d5941d2b0bda847badc51d16a",
+      "size": 162720
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714746209787753,
+      "path": "episodes/003/parts-pre-overlap-20260826/016-host.mp3",
+      "sha256": "adf5756c9d1f1e3b0b585e72d958286dc5a05d9c8355a7ad0891966f33bc1bd1",
+      "size": 73440
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714749152827338,
+      "path": "episodes/003/parts-pre-overlap-20260826/017-guest.mp3",
+      "sha256": "473c5a953e83e2f3cc6c85dd02d7e1a7160f2b50b2b1075e0cb8a1f225ef9846",
+      "size": 168192
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714751864863813,
+      "path": "episodes/003/parts-pre-overlap-20260826/018-host.mp3",
+      "sha256": "5c0f2b679c1fc121949fdaf985065f4218fc002c16a1eaad59788a6cd63d4956",
+      "size": 12960
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714755266909566,
+      "path": "episodes/003/parts-pre-overlap-20260826/019-guest.mp3",
+      "sha256": "3f86d413fb6830387a23e8b172da1181e8f0777dcc6659b2cb3b5aea92517c1d",
+      "size": 128016
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714759144961716,
+      "path": "episodes/003/parts-pre-overlap-20260826/020-host.mp3",
+      "sha256": "97ff48fe91085b5cab382d951ae5f79dd97f5f1babe37f413bd5e7c685e3885c",
+      "size": 33408
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714761291990586,
+      "path": "episodes/003/parts-pre-overlap-20260826/021-guest.mp3",
+      "sha256": "fc6c297d5d1e8e1e9689e546004a6423813a57841acf83605145e6be5fcfa25e",
+      "size": 111312
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714768272084436,
+      "path": "episodes/003/parts-pre-overlap-20260826/022-host.mp3",
+      "sha256": "b6d9f585e710f0ab3c46bacb8b89e572ae5081df205324faf09603799d9f618c",
+      "size": 45360
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714770006107748,
+      "path": "episodes/003/parts-pre-overlap-20260826/023-guest.mp3",
+      "sha256": "583e836df29639469d834cd0d73b0570e23093f7a9237ed53395c517208aaacb",
+      "size": 162288
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714775129176616,
+      "path": "episodes/003/parts-pre-overlap-20260826/024-host.mp3",
+      "sha256": "afdd7d3e02e106aa503da6808e9de3d236739d320d961820f3afd335f520bb23",
+      "size": 34992
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714776455194441,
+      "path": "episodes/003/parts-pre-overlap-20260826/025-guest.mp3",
+      "sha256": "61954988ba888ce82427d4c1714e77debb960a09f153a3fc778b95fc8c453150",
+      "size": 149616
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714778946227924,
+      "path": "episodes/003/parts-pre-overlap-20260826/026-host.mp3",
+      "sha256": "a8831b5d78b7f13036a46a56d229298fe9dcbd587afb6c01762628531c687252",
+      "size": 14400
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714780516249027,
+      "path": "episodes/003/parts-pre-overlap-20260826/027-guest.mp3",
+      "sha256": "f94a08e66e28d44dc377d37745c4d227469adb3fb1bb65410c3451d9bf959cc0",
+      "size": 113472
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714787443342124,
+      "path": "episodes/003/parts-pre-overlap-20260826/028-host.mp3",
+      "sha256": "b25772d5f46c5f2d8972767bc03426cd9bb6a673fc897f3ab3f410a4e8e5565d",
+      "size": 52992
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714790176378851,
+      "path": "episodes/003/parts-pre-overlap-20260826/029-guest.mp3",
+      "sha256": "58bf5c7ac7d2f8ccfc89aeee09e05b2c3bb696965841994de3198b7e41a6317b",
+      "size": 177264
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714793863428395,
+      "path": "episodes/003/parts-pre-overlap-20260826/030-host.mp3",
+      "sha256": "adc19a43c85d1131fe7f1e155a090cd93d3946f91af4edb0add7fe1f14367108",
+      "size": 30816
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714796764467375,
+      "path": "episodes/003/parts-pre-overlap-20260826/031-guest.mp3",
+      "sha256": "659986c86e876a5b45aeb13879fcd05014ebe1bee60d0dec21f19012818ac2a3",
+      "size": 146592
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714801317528547,
+      "path": "episodes/003/parts-pre-overlap-20260826/032-host.mp3",
+      "sha256": "e10d266f7289b1981ce2f65f3e800f58ab2b1d1d4d7758458484976e3a974244",
+      "size": 45072
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714804926577032,
+      "path": "episodes/003/parts-pre-overlap-20260826/033-guest.mp3",
+      "sha256": "f0973bbb1916c4bf0c47b93450967e0bc9e9f048f83f26f013e5370f6ba0bea1",
+      "size": 137376
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714808982631518,
+      "path": "episodes/003/parts-pre-overlap-20260826/034-host.mp3",
+      "sha256": "db9b808dd8eda152aef05686456170e90b4cb7a3ecf94e37a6f03f7b81e346d4",
+      "size": 34128
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714812283675858,
+      "path": "episodes/003/parts-pre-overlap-20260826/035-guest.mp3",
+      "sha256": "dc7547c91f124ab635131f00f32b99bb4a7e178dc6749d185f06f014f8f5a613",
+      "size": 158256
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714819604774186,
+      "path": "episodes/003/parts-pre-overlap-20260826/036-host.mp3",
+      "sha256": "41f609bb52812df5999d794b11fcd73a9dd1ff51073331d39d977131842752ea",
+      "size": 53136
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714822038806874,
+      "path": "episodes/003/parts-pre-overlap-20260826/037-guest.mp3",
+      "sha256": "302b3c4c0c5e1103b41a3e7fd4f816b3371ab159e375fe76de77c8e051bc9dd3",
+      "size": 172512
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714824306837331,
+      "path": "episodes/003/parts-pre-overlap-20260826/038-host.mp3",
+      "sha256": "2e6f36b402255a19af183eea208ba62d21f15711004c4790c3161621d0e884dc",
+      "size": 13536
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714825673855687,
+      "path": "episodes/003/parts-pre-overlap-20260826/039-guest.mp3",
+      "sha256": "caa8612dde6e61e7ae8ab0cf8fd33550a17824bd1bb6bc91f5b985afe5e81299",
+      "size": 111024
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714827796884195,
+      "path": "episodes/003/parts-pre-overlap-20260826/040-host.mp3",
+      "sha256": "70ff811a3fb44263e3c2d5614ed0e5fb09168ea3b5ad9150844aee5c89d2908f",
+      "size": 10656
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714830467920060,
+      "path": "episodes/003/parts-pre-overlap-20260826/041-guest.mp3",
+      "sha256": "bbbeca2ac391f97e63bff9fa6449945cc577e0e3458d85073eb915c9ad4941af",
+      "size": 195696
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714834893979486,
+      "path": "episodes/003/parts-pre-overlap-20260826/042-host.mp3",
+      "sha256": "f31f9112947bcec0d00cb78454566f48055e0b9d5cfb5921ae24603a08a6d692",
+      "size": 37152
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714836568001961,
+      "path": "episodes/003/parts-pre-overlap-20260826/043-guest.mp3",
+      "sha256": "bb83b54153578056f29964df0f3e63f46d1cdb654dd4897346a009c3d2bd30d1",
+      "size": 155088
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714839496041270,
+      "path": "episodes/003/parts-pre-overlap-20260826/044-host.mp3",
+      "sha256": "410a57c1d82b49036f4348e0d7006e052d3fde67693d89cbc45f224328e41c74",
+      "size": 13536
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714841405066897,
+      "path": "episodes/003/parts-pre-overlap-20260826/045-guest.mp3",
+      "sha256": "288ab669063f357817eee8e6de2d50b645da76870e86894b0407fc6f177c2917",
+      "size": 171792
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714843766098591,
+      "path": "episodes/003/parts-pre-overlap-20260826/046-host.mp3",
+      "sha256": "9a860d9072a143207e33c3c90fb2e26056a851dc89cffe5c9a6dbe6134c3efdf",
+      "size": 10656
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714847235145156,
+      "path": "episodes/003/parts-pre-overlap-20260826/047-guest.mp3",
+      "sha256": "76de5b441f811ad95d7b19df1ff77f07083ac5a1cd168761acfd0c30d24c3100",
+      "size": 62784
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714855761259590,
+      "path": "episodes/003/parts-pre-overlap-20260826/048-host.mp3",
+      "sha256": "c034cda5a292cae1b25f20f7690e86f4c2d52b0b0722707b97ae3f11419963e6",
+      "size": 66672
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714857052276915,
+      "path": "episodes/003/parts-pre-overlap-20260826/049-guest.mp3",
+      "sha256": "9a31a9710866e702833862cf8503d51a02230d645b841c9292d662cacf55458f",
+      "size": 43488
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787714861894341894,
+      "path": "episodes/003/parts-pre-overlap-20260826/050-host.mp3",
+      "sha256": "94ba0ca9755ac7bc597892627ac459e9154a73d468916fc881834b7c0bf9aae9",
+      "size": 36000
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716193699989162,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/000-host.mp3",
+      "sha256": "92a0f6a58dce8ae1391c98496c253d70cee83fac3f2613e30d34fc6567ae320d",
+      "size": 137376
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716194376997506,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/001-guest.mp3",
+      "sha256": "73a8131c567dc702fcdb5690358d3a7351583b2769cd4ae485df93a8f273f39a",
+      "size": 116784
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716194754002153,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/002-host.mp3",
+      "sha256": "43247075fdd328b57e56b375bb9e6edd8e7010a3274f944ce3ff168c3e2354ec",
+      "size": 25488
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716196625025218,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/003-guest.mp3",
+      "sha256": "b91eb01792a5f5e255bcd06ad066289156291a6623838279fcd0e6c5bb7600f6",
+      "size": 173088
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716197017030050,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/004-host.mp3",
+      "sha256": "1c4b3da2caf6e15e9b63955e6c8aa45b1f6be1e896cb86e36605be46ae9418ea",
+      "size": 31968
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716198917053478,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/005-guest.mp3",
+      "sha256": "dd09db9867869b053b7aa814eb61dd5c727260f2acac4abe31a9fc824ec57da0",
+      "size": 68976
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716199350058818,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/006-host.mp3",
+      "sha256": "22f8ca50c7b6fa8a9abbd86746bf08b80c3e931089d0a69749a44070dd5f3a13",
+      "size": 46944
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716200302070559,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/007-guest.mp3",
+      "sha256": "f5aa74b351b3059efc09a3cb3a939452320c0f82b3f6839ddbe057eff24b7104",
+      "size": 138816
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716200695075406,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/008-host.mp3",
+      "sha256": "f223b45e7e920427c7e1a6f629bb1e0cf0f7525543ceeea0fb2cac957f2f2202",
+      "size": 34128
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716202556098362,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/009-guest.mp3",
+      "sha256": "009f06d6c0c270568b2eae556aca4db8564c1a5ba7d0c286d3a9c1da9ace64ff",
+      "size": 184176
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716203171105949,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/010-host.mp3",
+      "sha256": "05a71e6791996d80db7f90215816427e7ce709557b5ae87fd17d26f7819fcd5f",
+      "size": 22464
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716203795113647,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/011-guest.mp3",
+      "sha256": "5d224f20e01f714d270251e36d3b4614bbee04f26aa38260dda67622b0eb45b1",
+      "size": 150192
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716204950127898,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/012-host.mp3",
+      "sha256": "ef07a76aed1ba1ab6a81c5710cb81142695a5baf8026968ae4ba1a699e01da81",
+      "size": 29520
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716205593135833,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/013-guest.mp3",
+      "sha256": "8790ca0d199aeae79df73be8eb384d096bd1b90289a16ee612eeaa82f0ee7468",
+      "size": 123552
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716205913139782,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/014-host.mp3",
+      "sha256": "e0c388d2792f34426cce7e951741287596952f61b11a68ec6b16276e5d637272",
+      "size": 11376
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716206828151074,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/015-guest.mp3",
+      "sha256": "2e5e5c797ee85b025a0c10cf7e74182ce6f12dc218986f0c93524cf0117a0900",
+      "size": 162720
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716213365231778,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/016-host.mp3",
+      "sha256": "0211651a1d2596c6f1144502ce5a93d81277fafbc1e2cb3773969ffec710dafb",
+      "size": 47520
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716215028252317,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/017-guest.mp3",
+      "sha256": "f6e8fed15aa5910155c1c8a9bf567d8ea83b67ef7374f1b8f6bfb02bb4375dbe",
+      "size": 118224
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716215627259717,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/018-host.mp3",
+      "sha256": "0636696d9fc94db17d4f3cbffbf9392c7b7153fef2479a31eb4a6a3b1d65d75f",
+      "size": 45360
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716216356268722,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/019-guest.mp3",
+      "sha256": "d164b05d0833f2964fccdb9d72038805e3eb128b67fd744e40d6318c37149ed4",
+      "size": 162288
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716216894275369,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/020-host.mp3",
+      "sha256": "f9a7d864c16ae34a7bc9e86296a93a501b15e8fcb3fab08cd2d9d66847e5399b",
+      "size": 34992
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716218050289651,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/021-guest.mp3",
+      "sha256": "c703bdf4ad29cdaade7f75a81401d0f8f4ce1915a3e24e374863b27cf58431cc",
+      "size": 149616
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716218435294408,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/022-host.mp3",
+      "sha256": "163ceabb800e65295d382ec9b565a11ef80b929ee1121bcb329c6290767367a9",
+      "size": 14400
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716219098302601,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/023-guest.mp3",
+      "sha256": "a76d258954b590b353d3b54f80c4f9cd2315dc9f91e66a49ecdcec49baff8cc5",
+      "size": 113472
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716220003313785,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/024-host.mp3",
+      "sha256": "73a674e02e5f34de42f2a8fe7b9eed3ab127ff7114549b536f57b3170fc0c083",
+      "size": 52992
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716220772323288,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/025-guest.mp3",
+      "sha256": "3782b1cbf1b715e4a50d945968f2f9043240a6ed25b3e260b0331ecdffc3f8de",
+      "size": 177264
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716221148327935,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/026-host.mp3",
+      "sha256": "48945242fc781b5d77aec46d5a2203bce02235557ab4605c397f05b03413e7f7",
+      "size": 30816
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716221996338417,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/027-guest.mp3",
+      "sha256": "da66ee773d56074e11ce9c94e4efd0bc1e06ebfea4990a5ba6fdf9e7ebd6d431",
+      "size": 146592
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716222455344091,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/028-host.mp3",
+      "sha256": "522026d986b9ae440d170872f2c6112b1c0eef62bcc8042323c6473388fe0d98",
+      "size": 45072
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716223224353597,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/029-guest.mp3",
+      "sha256": "7283755faf26389936dc67a591ab9ea4f863942b30b2381f8723068dae922175",
+      "size": 137376
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716224437368593,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/030-host.mp3",
+      "sha256": "3b381bb1c95e980893bd19009ba1054ccd6419063027ab048a16b030b1b09bd8",
+      "size": 34128
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716226304391678,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/031-guest.mp3",
+      "sha256": "678199c3b69a6c014645e01e3cef7134c40c766e697436f62f7c20d75879afc8",
+      "size": 158256
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716226719396810,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/032-host.mp3",
+      "sha256": "6ee5f98087478be0829cfb584c078453bed12471689949ba5dfc6332c7cecf9b",
+      "size": 53136
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716227851410810,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/033-guest.mp3",
+      "sha256": "899b909e706a1cf943cfb7b29dd984aaf0b8d0daf38167c7f2b9660a6701f1b0",
+      "size": 172512
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716228214415299,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/034-host.mp3",
+      "sha256": "fda2d0d1495e5905446237b0500a02abceb9937b51ff4afe6f86b6c07432c75e",
+      "size": 13536
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716228896423735,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/035-guest.mp3",
+      "sha256": "dffcdb2129abf4f08ebe7d51496c1a7a3e9755cc3f93cb9afced266a5b036476",
+      "size": 111024
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716229290428608,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/036-host.mp3",
+      "sha256": "2aa0062e8d5c4693e6e81ffb23d9f94a160c554444df22daa487f10a2939f4c4",
+      "size": 10656
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716229738434150,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/037-guest.mp3",
+      "sha256": "f8fdab303876e87772cccf3fed840c299bb87cdcddc3f8be738e0a456c513ec0",
+      "size": 195696
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716230365441906,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/038-host.mp3",
+      "sha256": "435e48d5e47171cc99d632e8acd43e47ed2114ba1413d13c93c3a9067be161e8",
+      "size": 37152
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716231040450257,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/039-guest.mp3",
+      "sha256": "10ea55f8240f9550fa6106971817bbcbf0071354694bc57fdd24bcc8c7aae52e",
+      "size": 155088
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716231440455206,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/040-host.mp3",
+      "sha256": "8b56b9126d37917a0d381e6647f92a953ab3f8dea2c7e65a11fe6bd0364605eb",
+      "size": 13536
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716232199464596,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/041-guest.mp3",
+      "sha256": "a0d3e0d63679983d3a7b7c6f1364972e4e3bba70716c909d46b7f5a7635e6233",
+      "size": 171792
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716232589469422,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/042-host.mp3",
+      "sha256": "1ab16231664e9d4b8b2723dd9f81147a884ca9a9e9a3835f56605c79c5c0e9ce",
+      "size": 10656
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716233026474829,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/043-guest.mp3",
+      "sha256": "8363880b3a17c654d4254153448f9df0fc15cfc399dc0794e4613c2962b774db",
+      "size": 62784
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716241230576387,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/044-host.mp3",
+      "sha256": "98fc41047ade3e0681d42fdabc9805c0a2634a9c77f76b18a53a2137dd10dad8",
+      "size": 66960
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716242093587075,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/045-guest.mp3",
+      "sha256": "107c1a1bd37115d4830fc112313cbfd57fa7799fdc8441b7a0e556205c42eb1e",
+      "size": 43488
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787716243027598643,
+      "path": "episodes/003/parts-pre-source-uniqueness-20260826/046-host.mp3",
+      "sha256": "80fde8f20f0db137ff0d75834053e07f54d1e6754ffaad8d3dc984e4f361b242",
+      "size": 36000
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723521098241671,
+      "path": "episodes/003/script.md",
+      "sha256": "bdf98b491aee8fd1149c59b8b10b8d96bdf578859ae68d0c50584543e23b32bf",
+      "size": 9845
+    },
+    {
+      "episode": "003",
+      "mtime_ns": 1787723581857041367,
+      "path": "episodes/003/when-a-game-needs-a-teacher.mp3",
+      "sha256": "7f6ab75ef111db3b790c84143a4807b5a818227b2ec3ec5dbaea85acde75cc97",
+      "size": 9916460
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723655718266818,
+      "path": "episodes/004/concat.txt",
+      "sha256": "3c7d1ecafd088932cfdc6ff2a0ae94086326a9d34b60bddcd21155aa48e66fdf",
+      "size": 4930
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723122834987379,
+      "path": "episodes/004/episode-notes.md",
+      "sha256": "cd56295276adb8a3e5f2fb2babd568b2b2a1c3b685c769b85fe2a83219b801b1",
+      "size": 3969
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723584960082197,
+      "path": "episodes/004/parts/000-host.mp3",
+      "sha256": "cb8f32a521670c268e4dddb261dfe2c35b017d9d0099879a4fa5e5c8088bff74",
+      "size": 90432
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716646384669650,
+      "path": "episodes/004/parts/001-guest.mp3",
+      "sha256": "9e4536ba297db21f50259834bb19f6f176dbba2a62d9b8d6d4047c86e646815e",
+      "size": 109440
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723588007122291,
+      "path": "episodes/004/parts/001-rowan.mp3",
+      "sha256": "6fb724e1e2d890f153dcbace40e42237230d507f86ac642535ec9a1b8f7a4efe",
+      "size": 109728
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723588566129646,
+      "path": "episodes/004/parts/002-host.mp3",
+      "sha256": "0f8bc2619ddc5aef0de05fabf43ec8c986ea50987a4115e77f3b67c76cd36bde",
+      "size": 98784
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716647720686638,
+      "path": "episodes/004/parts/003-guest.mp3",
+      "sha256": "d8d427ab400d919e7a70ea63c7a1992da678425b7afe271f12920d3fe11e480b",
+      "size": 162288
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723589403140660,
+      "path": "episodes/004/parts/003-rowan.mp3",
+      "sha256": "5e2680ba9b44aaba2adabc2689d695b51d5322ca34e0240bcd86ad9b72a32f0a",
+      "size": 116928
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723590412153936,
+      "path": "episodes/004/parts/004-host.mp3",
+      "sha256": "d0b7c19cda4d9143de7eb0b7b26098ea809deca0a4930308dd4a1385a07397d6",
+      "size": 32256
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716650002715658,
+      "path": "episodes/004/parts/005-guest.mp3",
+      "sha256": "83c0e2875c6beaf0bd2ca8f9fca2bd3e4c3ab3e6ac8a8818af1991bca11a3ebb",
+      "size": 160848
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723595609222318,
+      "path": "episodes/004/parts/005-rowan.mp3",
+      "sha256": "934e2539ab2c9f20f9c80f6a3fbc0d4cd3ec0222fea7001e6ef72bc1afb522b1",
+      "size": 173808
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723596581235107,
+      "path": "episodes/004/parts/006-host.mp3",
+      "sha256": "b60099b16ded28fea669004d2726863d8615f1c26a01e41710c3a55b75d073d1",
+      "size": 12096
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716650938727562,
+      "path": "episodes/004/parts/007-guest.mp3",
+      "sha256": "e3861c97911001e8d367ad4cf34d906831ad465dbb150a83d23842877c7da8bc",
+      "size": 127440
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723597515247396,
+      "path": "episodes/004/parts/007-rowan.mp3",
+      "sha256": "8358afb6698d108ce1a5540aea2ec9a5f6b4f81d87b070fb7596333fdfb4abdd",
+      "size": 129312
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723598135255554,
+      "path": "episodes/004/parts/008-host.mp3",
+      "sha256": "ddbc0f2d03f7c5cdcaf0afd2bfdb5a0990f6363dece70fd4d2d3d1257d2b4793",
+      "size": 20592
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716652584748496,
+      "path": "episodes/004/parts/009-guest.mp3",
+      "sha256": "57322dc6d3744fe7ca9af7e5215500d4487578fea7562a5024ad24c926437c50",
+      "size": 153648
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723598679262711,
+      "path": "episodes/004/parts/009-rowan.mp3",
+      "sha256": "a9346fe07f50c6d6080d3db17eeacf2071009d8799641379da300d9687606bfb",
+      "size": 104976
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723599142268801,
+      "path": "episodes/004/parts/010-host.mp3",
+      "sha256": "5cb24c5e311b704bfd092573af074cfd75eb30e6ea3d9557c4806b2d6027b21e",
+      "size": 36432
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716653641761940,
+      "path": "episodes/004/parts/011-guest.mp3",
+      "sha256": "c0ef5cf2555a1bf1e5f2e660370b405ffd6b22ee4fdf770457befd1830755b5c",
+      "size": 152640
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723599839277974,
+      "path": "episodes/004/parts/011-rowan.mp3",
+      "sha256": "5d375e1ef9e6b592e2a085714d337de585354fedd1fe0d6e3c67c79889591d0c",
+      "size": 139968
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723600442285907,
+      "path": "episodes/004/parts/012-host.mp3",
+      "sha256": "20d77a00be8db7dd2ca4cb6ce6fc35afd860104d4ad961a54b767f3ca0688b21",
+      "size": 40032
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716655051779875,
+      "path": "episodes/004/parts/013-guest.mp3",
+      "sha256": "e62377cf2eeafc8d4e1f8b42b856a7be3d9edbe6b29467b01a003a6b52ab73d6",
+      "size": 140832
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723600924292249,
+      "path": "episodes/004/parts/013-rowan.mp3",
+      "sha256": "6d3d7de12fb0c333e0517dba682d4954042015e9c445acf6fe99ba813bebc618",
+      "size": 38304
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723601408298617,
+      "path": "episodes/004/parts/014-host.mp3",
+      "sha256": "34a0137d8427d101186de2d95aaadf5004cfbf417990efd1247d19c2b5e0790e",
+      "size": 48528
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716656200794491,
+      "path": "episodes/004/parts/015-guest.mp3",
+      "sha256": "1b00b9f83598e134cb656462f96e4f0aa59403cadf661a53ade6e5f9618fbc7f",
+      "size": 173952
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723602042306959,
+      "path": "episodes/004/parts/015-rowan.mp3",
+      "sha256": "76487f4fd00e0e2fcb317ad3a8968570285c1b817fec4dd05508ebcadd3d9688",
+      "size": 121968
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723602594314221,
+      "path": "episodes/004/parts/016-host.mp3",
+      "sha256": "895e64e05451ace7c81749704bb671ab29daa48660ee76e6a4315db49aaeb15f",
+      "size": 10656
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716657570811918,
+      "path": "episodes/004/parts/017-guest.mp3",
+      "sha256": "e82c7d336e89145f9a9cd5100fd9af42c60d5eaa44a37ebe12afaa972602a1ed",
+      "size": 150048
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723603393324734,
+      "path": "episodes/004/parts/017-rowan.mp3",
+      "sha256": "3de3f0ede0a6c11013e67325ca8cfea3ac64419fac38a13b07a97dcc96873631",
+      "size": 163152
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723603816330300,
+      "path": "episodes/004/parts/018-host.mp3",
+      "sha256": "3d4a6a6a64becf091e12cb71a98735ad91fe0b33ec2633a53993e678728fff4b",
+      "size": 14832
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716658736826752,
+      "path": "episodes/004/parts/019-guest.mp3",
+      "sha256": "b1ef66ec09b409632c96598553f865f6b3a945fa4b4fed0e31019f6f28037f01",
+      "size": 172224
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723604543339864,
+      "path": "episodes/004/parts/019-rowan.mp3",
+      "sha256": "25f5c14705f07af952036496a7c6a2bfa93e4ea1d4d302900064d21046c9cb9f",
+      "size": 114048
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723604909344680,
+      "path": "episodes/004/parts/020-host.mp3",
+      "sha256": "d383163931b72a91c8ff14e25a6e5ab1bb4b7f2a75040468bd9bdab3b7773c16",
+      "size": 10656
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716660077843812,
+      "path": "episodes/004/parts/021-guest.mp3",
+      "sha256": "7826af5b52d56608ab6d2fdbe1104ce1cde62d68ce4f91f050aaa3ab136f9e98",
+      "size": 137664
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723605652354455,
+      "path": "episodes/004/parts/021-rowan.mp3",
+      "sha256": "7e40e66bfa91638aaf02b1ef28972384617b0e8d60dddb5f66d4138cf431e02c",
+      "size": 125136
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723606115360546,
+      "path": "episodes/004/parts/022-host.mp3",
+      "sha256": "bf96dfe2a889cb7a5a77b47d36aab094339c297a7d9c3cae2c78498c86757997",
+      "size": 32832
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716663406886169,
+      "path": "episodes/004/parts/023-guest.mp3",
+      "sha256": "ee38687ed798183c3caf626d6501069341f3701849d0a58aa9aa04dc4ea147ac",
+      "size": 142272
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723610629419933,
+      "path": "episodes/004/parts/023-rowan.mp3",
+      "sha256": "ef3dabbfa509c585e52e2d2b265365ee7e337217b345d6680c98fab0abe60ce1",
+      "size": 132912
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723611255428169,
+      "path": "episodes/004/parts/024-host.mp3",
+      "sha256": "927a911768f05318bb17b40289693949262055ca4a03c45836daacaa095db839",
+      "size": 43776
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716664993906363,
+      "path": "episodes/004/parts/025-guest.mp3",
+      "sha256": "36b0c211b5a4d60d7d86d521253d02f5d3bd351f3d1f9112d8e3b6fe6762d19d",
+      "size": 136656
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723612121439563,
+      "path": "episodes/004/parts/025-rowan.mp3",
+      "sha256": "3b0f3b49c3e00da30dde271caf3b3e26bb77303d4a1b1bc730a018eb0efd5a1f",
+      "size": 157536
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723612565445404,
+      "path": "episodes/004/parts/026-host.mp3",
+      "sha256": "c9353f10853643defc928c0fe09945aa8a1b1c81e667971033690edb45bae510",
+      "size": 29232
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716665997919140,
+      "path": "episodes/004/parts/027-guest.mp3",
+      "sha256": "2a45b83cdd63829ebb1d57fe8fd9da2878ec61861fc5e6ecf535b435440e213e",
+      "size": 165024
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723613276454757,
+      "path": "episodes/004/parts/027-rowan.mp3",
+      "sha256": "002608a761da87fed0fa29408f3f4f5a1e2ce372323e2d7dab6fb95b16c38831",
+      "size": 137952
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723613696460283,
+      "path": "episodes/004/parts/028-host.mp3",
+      "sha256": "6a1abe553b336cf125a3a1d9df7b6a6d5098514560ae192e7d6032026d5da581",
+      "size": 40176
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716667736941271,
+      "path": "episodes/004/parts/029-guest.mp3",
+      "sha256": "0ecc366d845e20663ecfd9de8a9a71f42263f1d5fae3835358c33b0afb962ecf",
+      "size": 151488
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723614404469596,
+      "path": "episodes/004/parts/029-rowan.mp3",
+      "sha256": "20df89f35d28ab5ec524432e64827883506e6c51aed960cf089421509c2d033b",
+      "size": 173664
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723614819475056,
+      "path": "episodes/004/parts/030-host.mp3",
+      "sha256": "bfc948fdfa6b990066ca814d28a7921605e45eba18b179902781b662ba103aac",
+      "size": 26496
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716677061059957,
+      "path": "episodes/004/parts/031-host.mp3",
+      "sha256": "2aa3d3c31ec14e54fc3658af498de11a120040c6f9f644a0d5e9cc3f9b90aba9",
+      "size": 21600
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723615306481465,
+      "path": "episodes/004/parts/031-rowan.mp3",
+      "sha256": "16ead9bb15973e09269d6d95b7152944d1e922d7d051a1be4614d0326f7527ad",
+      "size": 83520
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716677760068856,
+      "path": "episodes/004/parts/032-guest.mp3",
+      "sha256": "abf4868afadbfbc6443d2602c96306234dd443ecac7c2897fbd52e6f6bff3817",
+      "size": 171792
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723617173506027,
+      "path": "episodes/004/parts/032-host.mp3",
+      "sha256": "ffff03e957b31112da05a7132ae59e676e09fa0830d69e71a0dae290d598b2ac",
+      "size": 47952
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716678302075757,
+      "path": "episodes/004/parts/033-host.mp3",
+      "sha256": "1b368a959bc9e9f0a959ee5692aaf9cad241ff159ef6edd7c6c624758a4b7144",
+      "size": 44352
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723617935516051,
+      "path": "episodes/004/parts/033-rowan.mp3",
+      "sha256": "3c082e7a638fa4c88689565adca666896d7b8f517ed851ac229e5eb5c946e6f2",
+      "size": 138672
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716678880083116,
+      "path": "episodes/004/parts/034-guest.mp3",
+      "sha256": "18e464d3f06e439bee7ea24ab0f31e3fb220811667d09299f994139c8156549e",
+      "size": 111600
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723619481536390,
+      "path": "episodes/004/parts/034-host.mp3",
+      "sha256": "eef1a5dd98528b06a84c124d5968e719e2af415b52b6b6b1a414c11d65ab5731",
+      "size": 25200
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716679380089483,
+      "path": "episodes/004/parts/035-host.mp3",
+      "sha256": "7f6459cc4712e88de3b85fe142a443c7421cbf9ca5b1dfd38744720242c3c53a",
+      "size": 50832
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723620494549717,
+      "path": "episodes/004/parts/035-rowan.mp3",
+      "sha256": "ddcc79a601c56916a83d5769471f373397c90f402c82619973b586b6c0b18fea",
+      "size": 174384
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716684903159812,
+      "path": "episodes/004/parts/036-guest.mp3",
+      "sha256": "84cd2592a60a27d921cc8769afc79ccfb0ea8631bfc20dd344ca0d1cf669e481",
+      "size": 183888
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723621014556558,
+      "path": "episodes/004/parts/036-host.mp3",
+      "sha256": "f25b526f6f2e7669680c1fef7d80521b5fb2b92deb315f9bff75d9597ba9e6a1",
+      "size": 52848
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716685277164575,
+      "path": "episodes/004/parts/037-host.mp3",
+      "sha256": "048bce9f95ab63a2987006da552ba881e3efc1b2f05188393a0d2def906070d8",
+      "size": 26496
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723621761566386,
+      "path": "episodes/004/parts/037-rowan.mp3",
+      "sha256": "595ca77a27205c05e9cdba67a111896dc31b47d75aad9773d86e2a90cfddde4a",
+      "size": 139824
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716686171175961,
+      "path": "episodes/004/parts/038-guest.mp3",
+      "sha256": "624c0f21c1273607c349a86b2f3d24e1606ddbed1f94b2a550a81baf0e0b49c4",
+      "size": 135072
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723622198572134,
+      "path": "episodes/004/parts/038-host.mp3",
+      "sha256": "13288eb33379d4df4bc3e44611a37cf11c04e1d697352a2b4591b16e91b27b8e",
+      "size": 53856
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716686517180368,
+      "path": "episodes/004/parts/039-host.mp3",
+      "sha256": "1e7ea01f8c970eaf4b71f43717298b7c9e9f0dab6c172f0773dd7fc9d2401e6c",
+      "size": 20016
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723622871580987,
+      "path": "episodes/004/parts/039-rowan.mp3",
+      "sha256": "365761b1675ae7086e47e0bff26e4815c76668fac7a79fa017036d1b86a3cdfa",
+      "size": 140832
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716688538206109,
+      "path": "episodes/004/parts/040-guest.mp3",
+      "sha256": "66d8a3e38de2f05f917c3d444bbd7acbdcdcd3802561f112511c9a8038c4a007",
+      "size": 145872
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723623212585474,
+      "path": "episodes/004/parts/040-host.mp3",
+      "sha256": "0accbc4354f6093f30d6babad10b0515f220fffacd2f21970171bac9fbf7abea",
+      "size": 28944
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716688895210656,
+      "path": "episodes/004/parts/041-host.mp3",
+      "sha256": "acdf4146806186e94016e2b6f2fb75d9d6d01c23b5bbfb19e3a9e8d113673763",
+      "size": 25200
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723623717592118,
+      "path": "episodes/004/parts/041-rowan.mp3",
+      "sha256": "37fe76cd28b0e4a50c34e72ea1bde6324691c501002f858da98faa0a387cc2a4",
+      "size": 76320
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716689627219979,
+      "path": "episodes/004/parts/042-guest.mp3",
+      "sha256": "996bd23a2c4da3f4e1394ec1088613ebaac7930dd2ac93d3567502cf2aab3c1b",
+      "size": 144144
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723624155597880,
+      "path": "episodes/004/parts/042-host.mp3",
+      "sha256": "166f60d390854e278154e0e69d5a864db12c0bcf0441899b31fd2630f244070b",
+      "size": 30816
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716689921223724,
+      "path": "episodes/004/parts/043-host.mp3",
+      "sha256": "4da2e5b7dd20d95ebbaa3cebc528045d3a01fb99bfb0d65b4a303bbe2b8c634a",
+      "size": 19296
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723625655617612,
+      "path": "episodes/004/parts/043-rowan.mp3",
+      "sha256": "7fde9bd4e21f7c63924c489123c58934ff5222a92fff52a62c8f452c805a5388",
+      "size": 131040
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716691675246067,
+      "path": "episodes/004/parts/044-guest.mp3",
+      "sha256": "c87a76e00c9743312d78000c47efe74a6ff4c2d1f8211b11c297c2a9d625d855",
+      "size": 116064
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723626122623756,
+      "path": "episodes/004/parts/044-host.mp3",
+      "sha256": "3507bc134e81063d46c54eb8fa29c215ea784e0c61cb8d37684e302291ee185a",
+      "size": 20304
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716693244266055,
+      "path": "episodes/004/parts/045-host.mp3",
+      "sha256": "ee12c0b4e1b987bdff4fcb76109b411539da5a7518cf7bda0c8a97bb02ac7056",
+      "size": 11952
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723628120650038,
+      "path": "episodes/004/parts/045-rowan.mp3",
+      "sha256": "a8e8c79a60f2394048d6af9891358dae5be20d1d17a409c5d45ee8ac284b6a7c",
+      "size": 164880
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716694981288184,
+      "path": "episodes/004/parts/046-guest.mp3",
+      "sha256": "0e074a6e0de47a9ef0a0d2753835b16996e86b6fb4ba334c39368711e51e46f1",
+      "size": 90432
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723628448654353,
+      "path": "episodes/004/parts/046-host.mp3",
+      "sha256": "88941189355a25738aa079d56d76d5e6a45bf2d62c909f6c5ebddd06856fb1ab",
+      "size": 25200
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716706726437852,
+      "path": "episodes/004/parts/047-host.mp3",
+      "sha256": "5ad6718386b9add759f076a9d670a9b7bac9ed24b3fbc41180d8eb9926ee6f15",
+      "size": 90864
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723629566669059,
+      "path": "episodes/004/parts/047-rowan.mp3",
+      "sha256": "61a13ef4fc322a753da2e7aeda6de7098591d91424e838399f122f3aa2ea0b11",
+      "size": 120672
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716708593461650,
+      "path": "episodes/004/parts/048-guest.mp3",
+      "sha256": "19a0eb13ce7be2f492b7c6c76c5588a5e24d6ef164cf123cc8ca7d5e2989ebae",
+      "size": 40752
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723647439904161,
+      "path": "episodes/004/parts/048-host.mp3",
+      "sha256": "d19621f35dd76779566fc371fcb59ea49f72725e90ef484cd01b7b48e41cc6c5",
+      "size": 152064
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787716710273483066,
+      "path": "episodes/004/parts/049-host.mp3",
+      "sha256": "01920e9d41a0400568dd5d077a467a2f47bf83778ed72593312508b77737d69f",
+      "size": 35856
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723651062951815,
+      "path": "episodes/004/parts/049-rowan.mp3",
+      "sha256": "292263d41e060219c2db097728110763e2badd93607531f97cd111abb001e23a",
+      "size": 93744
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723651476957260,
+      "path": "episodes/004/parts/050-host.mp3",
+      "sha256": "5fc260b2242548a3917a1bf3862208d3bb6d71406656f057e8573c9ad52d2cd3",
+      "size": 12960
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723652684973149,
+      "path": "episodes/004/parts/051-rowan.mp3",
+      "sha256": "aa53d1e9e74d7966430683f7260e85ed73c90d2e37d352d53129a05b6b45ec03",
+      "size": 149472
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723653154979331,
+      "path": "episodes/004/parts/052-host.mp3",
+      "sha256": "ce3446f36e1714372c41e4c0a42d08c5cf09f8e7817189bcd543a5274361ca0b",
+      "size": 42768
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723654027990813,
+      "path": "episodes/004/parts/053-rowan.mp3",
+      "sha256": "ac25ce07f57fa05655da35c1683ad5067a1a87912a69e7b33712a691a5d0a779",
+      "size": 22896
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723654889002137,
+      "path": "episodes/004/parts/054-host.mp3",
+      "sha256": "b19f0de36ada47e20ec6ace9fc0756cc9327d36c7cb4ab4e8763baaf70a1dcb5",
+      "size": 98208
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723655351008213,
+      "path": "episodes/004/parts/055-rowan.mp3",
+      "sha256": "4b0cd43ab8f31f6bc0c35e99ae27b197e7741ea1c257f358cf9e20c806985db8",
+      "size": 41616
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723655714012987,
+      "path": "episodes/004/parts/056-host.mp3",
+      "sha256": "0bd60e60d30856aa6cf3c727d08f5c0393388c4e46880355e03d0eca85825e46",
+      "size": 29808
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787718647513352074,
+      "path": "episodes/004/parts/057-rowan.mp3",
+      "sha256": "043fa3621fa11503ca4cff7b5fda2e0f6992544778eee70e7eebd7495c88497a",
+      "size": 93744
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787718651062397845,
+      "path": "episodes/004/parts/058-host.mp3",
+      "sha256": "50f3794b7d3f8560101a01bd3c2ef30d11b6cf375bf4ce4f65ef65fa90761823",
+      "size": 12960
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787718653221425690,
+      "path": "episodes/004/parts/059-rowan.mp3",
+      "sha256": "5bbf11915635d639e078ab60c0679151217c0fe851eafa0acfc6f3f45517f76d",
+      "size": 149472
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787718658797497606,
+      "path": "episodes/004/parts/060-host.mp3",
+      "sha256": "a6a8950d77a6568341b1566efcab9fe40446b1d91fb4cf180ce774597ff4fff7",
+      "size": 42768
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787718659379505112,
+      "path": "episodes/004/parts/061-rowan.mp3",
+      "sha256": "25f1d6b104a57823ed9210f0478abfe6d3056ed3510cc9dec3a0d0bc36adc48e",
+      "size": 22896
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787718670406647338,
+      "path": "episodes/004/parts/062-host.mp3",
+      "sha256": "6e79485b31b5793124a0dd24d044857a9f4420ea626744a2cb2918fd53321f2a",
+      "size": 98208
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787718670833652845,
+      "path": "episodes/004/parts/063-rowan.mp3",
+      "sha256": "4c3befed824c6c9056ab4c2aa5216a1956b917c0718b2f8c8195d400a8b57b8c",
+      "size": 41616
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787718675513713211,
+      "path": "episodes/004/parts/064-host.mp3",
+      "sha256": "da4eab208c0eb52ff8cf7f0f7cadfcbfc1fd271095dfebe47720024d59457cce",
+      "size": 29808
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714884460644648,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/000-host.mp3",
+      "sha256": "2ff4d266642d1c94b96488074ea2a74cdb812a3f968bcda4f70c2785ac9a77c8",
+      "size": 122976
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714885874663614,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/001-guest.mp3",
+      "sha256": "230122d34d0cc33138618b0784ba8d850f657c0335c9d74325889d2aecbea7a8",
+      "size": 109440
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714891081733454,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/002-host.mp3",
+      "sha256": "5e58559f5005066bc1e421f05fe96bfb1234c74f7286a7a518c3c09961c33240",
+      "size": 26064
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714892956758602,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/003-guest.mp3",
+      "sha256": "e2ca807421c1533d639e0a47955f450d9f6d3c7fedf4bc998ffc64ec385115cc",
+      "size": 162288
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714898678835340,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/004-host.mp3",
+      "sha256": "4b1e4f4dff18df76148fd517a7b103721e6272870db0bbaddba7e88d5a591c52",
+      "size": 36144
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714901090867685,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/005-guest.mp3",
+      "sha256": "6524d5b4ea025bdb0c41acecd5d0e564a1640325d4fc4ce66049243c1d7d34ee",
+      "size": 160848
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714903905905433,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/006-host.mp3",
+      "sha256": "584f781d040db54c82565dd2b395e9f49c2666c46cb58734c98d00674072748a",
+      "size": 19872
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714905180922529,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/007-guest.mp3",
+      "sha256": "4c371261bdba74ced376d96ce1a55d9d88d67e89ddc684d71efbde7e00a534d4",
+      "size": 127440
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714910204989892,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/008-host.mp3",
+      "sha256": "dd84b051d533d9b68b9c3faf4f6681af133e957b66721c8c0f43b3490d0228e7",
+      "size": 34272
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714914328045171,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/009-guest.mp3",
+      "sha256": "f3a75485b18633531a1f62d445f2bc90768969127ff2b8db0bbd31c8d1a939ee",
+      "size": 153648
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714917761091195,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/010-host.mp3",
+      "sha256": "565743f34f1e17d1af2ce14c2d853225d22902380634c4ee5e202f7c3f003030",
+      "size": 21456
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714919796118476,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/011-guest.mp3",
+      "sha256": "decc5bff97b568c2a24dad75a1322488e6ee247bf47f86cc274e8f3ecd652ef3",
+      "size": 152640
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714926315205863,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/012-host.mp3",
+      "sha256": "7b1fd57ec263d42ddd06f0e04b7e285408e2e62afc4543afa271cc3a8da6c036",
+      "size": 34704
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714927945227711,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/013-guest.mp3",
+      "sha256": "4acafb364fb297e4b77b19de1009d297a580aefe4de99853df608a5027b17854",
+      "size": 140832
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714935798332965,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/014-host.mp3",
+      "sha256": "f1155fd4e7511952166522944e9f250407e5928eaf4044b82000854051efda81",
+      "size": 29088
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714938587370343,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/015-guest.mp3",
+      "sha256": "7134c3bf39095d101bda3533e2a4a6a93261f7169330b3669b5056cca8362c87",
+      "size": 173952
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714944987456109,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/016-host.mp3",
+      "sha256": "1a26a8779bb71f1eb644d666d3489353edc94b347d599419e49ea69ce3136dfc",
+      "size": 45648
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714947494489703,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/017-guest.mp3",
+      "sha256": "9184bbfcf87c05019d1ee17bd7dfeae890a8acadbe925546d0aae21ca413bf2a",
+      "size": 150048
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714952512556940,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/018-host.mp3",
+      "sha256": "970873134b8ba1a87acde5a0f1f2a7f3e7144f7b531fca24676cbabf2490a27c",
+      "size": 29088
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714955779600712,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/019-guest.mp3",
+      "sha256": "e0be9931a121b20a10902662ae26e65f07959d23d063a13ff589fefd6f111cc7",
+      "size": 172224
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714961554678082,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/020-host.mp3",
+      "sha256": "198f4024d547c9f9334531706d64fd3a1d9da1cda133a0b3a1d8d9adb14f12b6",
+      "size": 41472
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714963506704232,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/021-guest.mp3",
+      "sha256": "4b16a33e0db18140febe9fb658fac33b8ee19d49cf1668c43441188a22dbb0b8",
+      "size": 137664
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714968674773462,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/022-host.mp3",
+      "sha256": "a02e41717fa9f72827583033f442fa5c295a1b8ef03e418f4aa1fffc48903017",
+      "size": 35568
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714972557825475,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/023-guest.mp3",
+      "sha256": "68cd9f5e77906d815029c0d1b13c2e7560779faa97d1a8e9cbf83cfda4655935",
+      "size": 142272
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714976384876735,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/024-host.mp3",
+      "sha256": "cea6e05a70bc0b2d2b5af69f2862ce3e6d651764cabe63e9cac7b96acb433b6c",
+      "size": 24192
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714977751895044,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/025-guest.mp3",
+      "sha256": "150904492bea87862d28bcc8b7f52288e36dc5ec697824838fb34adbe80452c4",
+      "size": 136656
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714979862923318,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/026-host.mp3",
+      "sha256": "c63ca574c8f3669d1459275455da3207f02154e45ddf543660e905d9136263b9",
+      "size": 10944
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714981995951885,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/027-guest.mp3",
+      "sha256": "319737f76d6b3f0f26be5fbdbca8a7f5af8ab8dc9742b50aa20535d1fb602f2d",
+      "size": 165024
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714984596986719,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/028-host.mp3",
+      "sha256": "de34963053dfb08a7dffaa569af48148c8b4a607651349d4090b3803fba1c85b",
+      "size": 18864
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714987046019516,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/029-guest.mp3",
+      "sha256": "79eda2e4fc80f7dbb3c1e332d27bc018c9277165dcc1b674f386b76ef2b53918",
+      "size": 151488
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714994062113468,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/030-host.mp3",
+      "sha256": "58477e344c81f7594f4f66ddda37f2e6ffb503e3b3efb4769b91e12c333ac2eb",
+      "size": 55728
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714995821137022,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/031-guest.mp3",
+      "sha256": "d3bc275af0ade924b0ae2ef15bf2bcab6e879f4db76d61807a060ccff06350b5",
+      "size": 150336
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787714999335184073,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/032-host.mp3",
+      "sha256": "c203bb5413f9e299f34de49106863e636aad6740fe644030d7867e2196be9978",
+      "size": 24912
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715001748216382,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/033-guest.mp3",
+      "sha256": "55918223ac238b70ea470dcf4a189e84909952cea049b185e1888aa62e30917f",
+      "size": 118368
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715005376264956,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/034-host.mp3",
+      "sha256": "9c9b221b13e002a4be3ccb4097437979dcce17ce4a52beba2289947bc08a4170",
+      "size": 21600
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715007291290594,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/035-guest.mp3",
+      "sha256": "6906e9f7e8dccea9c738002e24fb2c52ed9e322c914dd7c92c1d08a75e901fa3",
+      "size": 171792
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715013560374520,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/036-host.mp3",
+      "sha256": "b07eba9c0bbfc48f63f35cdf66ea31c0b23eda3ff49429f6d41a8050c1cf73a8",
+      "size": 44352
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715014943393033,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/037-guest.mp3",
+      "sha256": "004d52f8489bd144dcbc9d7543abe2248dbc8959aaa0db65466375b537fb50ff",
+      "size": 111600
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715021103475491,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/038-host.mp3",
+      "sha256": "1004dbb035b6d8f184a891e63d679854f565d812432b0f9e640a88cd1afc5da1",
+      "size": 50832
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715022898499518,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/039-guest.mp3",
+      "sha256": "df529b96fd74449abf4d6b28aeacb37bc79605b6346a7fac8bb1324f68ea5220",
+      "size": 183888
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715025609535804,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/040-host.mp3",
+      "sha256": "3aff3de6fb5984b2f54980c293d482784422ff9bee64c6498a0a6f4f44616f65",
+      "size": 26496
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715027051555105,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/041-guest.mp3",
+      "sha256": "a0cd6d822588e9c69e3ae8aa7d0ecf7f039edb6ea47c09eb4f4e35749eb03c60",
+      "size": 135072
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715030990607824,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/042-host.mp3",
+      "sha256": "a31ab56f5dfe1a600f2c4f9a463890a97021c9125c67973e2b0962c577ffdb9e",
+      "size": 20016
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715032457627458,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/043-guest.mp3",
+      "sha256": "5fb253bac1556741f95fcfa25bc5e658731db77a9598f29e02860d8fe1950e86",
+      "size": 145872
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715035447667474,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/044-host.mp3",
+      "sha256": "375ba7b03be980b2125cbbdecac1cf40bdc981e59e97721c500702fccb76fb08",
+      "size": 25200
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715038419707247,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/045-guest.mp3",
+      "sha256": "47e478f17c07379744ee158d19a743f1f7d4e501b651345a1a3dc9b9d458b09b",
+      "size": 144144
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715041829752880,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/046-host.mp3",
+      "sha256": "cb8797507bbd703c6950ba0b9a890c396d2b4996ae60d221b54952081eee62a0",
+      "size": 19296
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715044816792851,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/047-guest.mp3",
+      "sha256": "0978faab8975c90f95482a9af129132fd0ff03315fbd43da36c3b3228a52dd1f",
+      "size": 116064
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715047384827213,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/048-host.mp3",
+      "sha256": "11f0bf61cb1d93e615784642c5c68c3e23817950347ace19af116b16fd9af52d",
+      "size": 11952
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715048477841838,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/049-guest.mp3",
+      "sha256": "2f04d362cf3421742a3ac97ac80b2c8108a7b59093d12d9223a4508d2caa3e7c",
+      "size": 90432
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715060990009243,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/050-host.mp3",
+      "sha256": "99a44d80b2c285f753fde9a0d7921f4ec80ec89b4d1c5949e57539775da03cea",
+      "size": 96912
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715062301026782,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/051-guest.mp3",
+      "sha256": "dbb9b6f47691f387dee7be9caf8b12666d88188018632687cf200b7e18acf6d4",
+      "size": 40752
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787715066485082756,
+      "path": "episodes/004/parts-pre-source-uniqueness-20260826/052-host.mp3",
+      "sha256": "2a35e45aa5898db5a661589642079cded8f78bbc33bd64414c5d4b71ae06f0f8",
+      "size": 35856
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723521099241684,
+      "path": "episodes/004/script.md",
+      "sha256": "595b6e8fe8debf676761717f7ea2a91be672a3b3283cb762f0b6282bec07521f",
+      "size": 12159
+    },
+    {
+      "episode": "004",
+      "mtime_ns": 1787723658193045592,
+      "path": "episodes/004/the-feeling-learner-and-the-evidence-trail.mp3",
+      "sha256": "bde2bfbfa3abe1da73a6297b7be09f5e5a815837e9d85642a34505469a28da9e",
+      "size": 12337196
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723357109249650,
+      "path": "episodes/005/concat.txt",
+      "sha256": "6eb2fe7b1cad67c0b69fe0bf962f603b2e1a8c51b74ee9ef51fd3e62edf271fd",
+      "size": 2162
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723171244627548,
+      "path": "episodes/005/episode-notes.md",
+      "sha256": "58d833d8d54eb8cb284aced97d77c5d205b52f2ca315c41b87113fca7616d48a",
+      "size": 1187
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723287997169515,
+      "path": "episodes/005/parts/000-host.mp3",
+      "sha256": "934399b4c32f9960484f77cdcc7a877fcfc35ed0ef5206fe1d115dae9c5eda30",
+      "size": 71424
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723290476202229,
+      "path": "episodes/005/parts/001-rowan.mp3",
+      "sha256": "9f577ab1895af94e71524582f3765df8069ba82cafef9ce592c82bf26a1e3ea5",
+      "size": 115344
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723294026249075,
+      "path": "episodes/005/parts/002-host.mp3",
+      "sha256": "ac19a99d60c54dfa6ebb63a885bfef028b337ef5ff19406e2f49e0fc3d09aa65",
+      "size": 21600
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723296369279992,
+      "path": "episodes/005/parts/003-rowan.mp3",
+      "sha256": "34208530def06e13afe5a2df58b584910252fc196cf595437e4b3b51ec787915",
+      "size": 107568
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723300722337429,
+      "path": "episodes/005/parts/004-host.mp3",
+      "sha256": "38095bcf399936be7b6526033de2de6789e85905e0da92246d89748e01b9b13f",
+      "size": 31680
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723303656376141,
+      "path": "episodes/005/parts/005-rowan.mp3",
+      "sha256": "fced2af9edf07350a89944a898726c97cbdb3fd4073099dbe649d5db5e7fcff0",
+      "size": 106992
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723307864431661,
+      "path": "episodes/005/parts/006-host.mp3",
+      "sha256": "d53555c529f87141886ff660903f29e4dc79f154cd3696a2a4633ecbaa368246",
+      "size": 33408
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723310745469670,
+      "path": "episodes/005/parts/007-rowan.mp3",
+      "sha256": "d131cc1acb5c9178c7fbf89053e48a02857bcd9baca9bc1957f5495bc3f0bbfc",
+      "size": 81504
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723313097500699,
+      "path": "episodes/005/parts/008-host.mp3",
+      "sha256": "3211642fb28d32ede7340495feb8edd357629d3fddf0843a97b880213d798d94",
+      "size": 17856
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723315844536938,
+      "path": "episodes/005/parts/009-rowan.mp3",
+      "sha256": "98167aa53221d6b56804a580a86d3a7dd355916d0963131835e88c2fc769e425",
+      "size": 97056
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723318579573018,
+      "path": "episodes/005/parts/010-host.mp3",
+      "sha256": "5112ab063eef6a2a8a7323f636d804b4f68e24ead55308c99b73920a88e1ab8a",
+      "size": 19296
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723320212594560,
+      "path": "episodes/005/parts/011-rowan.mp3",
+      "sha256": "b09fb3d06fb2326fc8d873dfdead785126b485eeae84d19aa658250208de20ff",
+      "size": 101232
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723322526625085,
+      "path": "episodes/005/parts/012-host.mp3",
+      "sha256": "e6706c7c7594e424d2ca4f961f6e6fe4295463f02392d9e3733ec80dad9bc182",
+      "size": 10656
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723324203647206,
+      "path": "episodes/005/parts/013-rowan.mp3",
+      "sha256": "948664b7deb24ccd89c48a18db056c8aafd65aae4799a7bf9aa85e3204db91e6",
+      "size": 114624
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723328779707565,
+      "path": "episodes/005/parts/014-host.mp3",
+      "sha256": "8ef43c7420ad87a9cdd76b62497616ed0fa77b9018242352335a81033376fa56",
+      "size": 30960
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723330689732757,
+      "path": "episodes/005/parts/015-rowan.mp3",
+      "sha256": "9d21926c40acc5febb0b438528677fea78342ef1fac5fa05f6a0cb53f32476d8",
+      "size": 89712
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723335464795735,
+      "path": "episodes/005/parts/016-host.mp3",
+      "sha256": "e532d8c15b3702f8486a0dd98ef106413062c5807dea6d3d3ec0fde6445ecad4",
+      "size": 22896
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723336992815889,
+      "path": "episodes/005/parts/017-rowan.mp3",
+      "sha256": "73d49fd8b15bb6487e6ccda6d79eb37992a88699b0a1ae6a16dcfdb3bef170b0",
+      "size": 68832
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723339626850628,
+      "path": "episodes/005/parts/018-host.mp3",
+      "sha256": "4683a188206a6da4ff5e93249f3ab979b9be327563e747bc9e311a447d538b38",
+      "size": 15264
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723341179871109,
+      "path": "episodes/005/parts/019-rowan.mp3",
+      "sha256": "79b6783b6b26204ea9157a87cd8b0db6286b37abee8ae848e9f483b00202ebe9",
+      "size": 90144
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723341612876820,
+      "path": "episodes/005/parts/020-host.mp3",
+      "sha256": "e980fac63b75ddc5a7fa1750bb42b16eaeb3e20d496454210aa468276c3b95e9",
+      "size": 11952
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723342753891868,
+      "path": "episodes/005/parts/021-rowan.mp3",
+      "sha256": "d12668de02091a2bad0dd091c607f353fe66f9894f75ba82616b288ee55aa4e2",
+      "size": 74016
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723352754023739,
+      "path": "episodes/005/parts/022-host.mp3",
+      "sha256": "9cf35bfce4f61ef5e02b37cd7ffb95a866f78b724ed9a85e2dad8104dd4ffea3",
+      "size": 85680
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723353238030121,
+      "path": "episodes/005/parts/023-rowan.mp3",
+      "sha256": "3a8fe869272d92aaa6aac72c1a09837488bcf171bdf88a30a923b359a9577a56",
+      "size": 41616
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723357106081126,
+      "path": "episodes/005/parts/024-host.mp3",
+      "sha256": "ee80bf72a16871fb54b4774d95b82753fc1dcb157973e92112814c5e27278fff",
+      "size": 23904
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723171244627548,
+      "path": "episodes/005/script.md",
+      "sha256": "d867b12490b4dfe38cfd910fd434fe3a68592ae8e1e7604c4512066c06085ba4",
+      "size": 3908
+    },
+    {
+      "episode": "005",
+      "mtime_ns": 1787723357909091714,
+      "path": "episodes/005/what-can-a-hundred-games-teach-a-teacher.mp3",
+      "sha256": "a5b872aad3e26fbd4600250c55e32318a16151df8cfa39ed8f757930c1d75d05",
+      "size": 3961772
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723438660156001,
+      "path": "episodes/006/can-play-become-evidence.mp3",
+      "sha256": "9df89a3ec0390784f3bec9f8cb402268a691e9e704a28ebb9c298c425bc88970",
+      "size": 3424556
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723437981337059,
+      "path": "episodes/006/concat.txt",
+      "sha256": "a551b35ab706f8725a5a1c47ef3d5c66a8a3a3eaf2eba8f7d6075a818078f178",
+      "size": 1816
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723171244627548,
+      "path": "episodes/006/episode-notes.md",
+      "sha256": "dfb64f123c7a306d4a0c9b9c375025a99167939c9f080f7f012d16933e02999c",
+      "size": 1275
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723381521403013,
+      "path": "episodes/006/parts/000-host.mp3",
+      "sha256": "ce07cf895ea63bff5873259c9cfae658c9e2598c08774466d50a164a7de6a190",
+      "size": 57168
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723383500429100,
+      "path": "episodes/006/parts/001-rowan.mp3",
+      "sha256": "2aa612c2a571e06d7771586d6174a7df6d33281e4a2c6ec3ee929da768846d16",
+      "size": 110880
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723387267478755,
+      "path": "episodes/006/parts/002-host.mp3",
+      "sha256": "f6bb22efbdd6b6eca4838099b039d94cd578e101489839b321f0989a0ec8ebcd",
+      "size": 12960
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723389650510163,
+      "path": "episodes/006/parts/003-rowan.mp3",
+      "sha256": "fae547906c00bac7e33bb2b0d2cd2b7a9740b105cd1a6f30e33f0df7b923d650",
+      "size": 137520
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723391367532797,
+      "path": "episodes/006/parts/004-host.mp3",
+      "sha256": "2dce2d410b763d9a76fbb517bc71352eed71ea66e34d2524e630902b54f0fe0d",
+      "size": 11520
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723392584548838,
+      "path": "episodes/006/parts/005-rowan.mp3",
+      "sha256": "e218f77dfa91b997eecda1a0019667ff0eb27e2d06e211e0030007fdb814f98d",
+      "size": 104976
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723399010633534,
+      "path": "episodes/006/parts/006-host.mp3",
+      "sha256": "a3c31b198c3dae852d12e7cd32501a86263bc8129c890f0d5b3e1cc87f2c9c07",
+      "size": 32256
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723401494666272,
+      "path": "episodes/006/parts/007-rowan.mp3",
+      "sha256": "19f34b7c60efed6874946c1339eee667bb24c964fd8601f49b83e2af38d78a37",
+      "size": 103536
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723405377717447,
+      "path": "episodes/006/parts/008-host.mp3",
+      "sha256": "1446b3dbb22afc56956b7f9bbf4457b8e2b8b6d0618bf9e9dc1b9de621978931",
+      "size": 22320
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723408455758012,
+      "path": "episodes/006/parts/009-rowan.mp3",
+      "sha256": "0987949e5e990c7dcd565416689ff43fc178df3f8bc12cb40dea1ec8a0e79277",
+      "size": 100944
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723413920830030,
+      "path": "episodes/006/parts/010-host.mp3",
+      "sha256": "3fad5366bea916cc6fdda25eca569b3df43b5a8fc90e5266ea756cd353efea84",
+      "size": 26064
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723415316848427,
+      "path": "episodes/006/parts/011-rowan.mp3",
+      "sha256": "4478ab83ec7450a9719b1fc191302045fd9b96da84497843a4836a190b174a5b",
+      "size": 101808
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723418684892810,
+      "path": "episodes/006/parts/012-host.mp3",
+      "sha256": "ab3e92cc843a79bd617314d22a066299b8a512fd845103dd4385d90252533a47",
+      "size": 26352
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723422004936559,
+      "path": "episodes/006/parts/013-rowan.mp3",
+      "sha256": "1d06a5cdd7559b295957099a1583a1186da2cb355eb16af27dfdd7809ff90d0a",
+      "size": 103536
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723425862987395,
+      "path": "episodes/006/parts/014-host.mp3",
+      "sha256": "3f47ea024e62d79339c9ea4ccb09ece175fb2e3448e8505d3d0f9d384688de49",
+      "size": 19728
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723428973028373,
+      "path": "episodes/006/parts/015-rowan.mp3",
+      "sha256": "e3ad15c945791727e3ab54411e2c85d5a89190c06a461fe37ce90663e3e23f6f",
+      "size": 90720
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723429395033934,
+      "path": "episodes/006/parts/016-host.mp3",
+      "sha256": "a0c59f21c3fb7aea5415a3974fef11ccdaf6dd162c8bb4db60439284b4b8ed9b",
+      "size": 11952
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723430489048347,
+      "path": "episodes/006/parts/017-rowan.mp3",
+      "sha256": "f2b823bb92f46e855bd68c976e0fcc82c0e7328027f2a1cfabb236c447d3104c",
+      "size": 58320
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723431031055489,
+      "path": "episodes/006/parts/018-host.mp3",
+      "sha256": "1d387f2671e877b56c9e025a9209fc00c616365f29aed5fddc6635a8ced4ffec",
+      "size": 85680
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723432754078190,
+      "path": "episodes/006/parts/019-rowan.mp3",
+      "sha256": "b416488387aa7f8c407ff1d8df5fb2f0570d7f91f620fdfc15ad7627528998d5",
+      "size": 41616
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723437979147029,
+      "path": "episodes/006/parts/020-host.mp3",
+      "sha256": "657a1b098e801f76545617008d3110fef691f1d68f0dcc7600f3c19499805205",
+      "size": 23904
+    },
+    {
+      "episode": "006",
+      "mtime_ns": 1787723171244627548,
+      "path": "episodes/006/script.md",
+      "sha256": "ed9841449e975ae553fc31445898f0d86580f9a218c42bc2f6b430ee2ff39b6e",
+      "size": 3428
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762947285139647,
+      "path": "episodes/007/concat.txt",
+      "sha256": "c0ae71e01902f139e009a2eb4f479df6785d45395b72404de25ef393c86e51e7",
+      "size": 3719
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762348490388540,
+      "path": "episodes/007/episode-notes.md",
+      "sha256": "27a57ab44e4a14be31f0f2833d39ccade4cf26d7b9a16015ad99426dc90a7111",
+      "size": 5115
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762665813471736,
+      "path": "episodes/007/parts/000-host.mp3",
+      "sha256": "13d44ab1e88abc9deb38117fc9b3c9f8a23c3e577df152167f4ed99710b55a2d",
+      "size": 485424
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762666757480858,
+      "path": "episodes/007/parts/001-rowan.mp3",
+      "sha256": "85c97eb938cc9f5aa087a3763922962203bf02c7ec7b4c05b1e289174fb7e05a",
+      "size": 161712
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762667804490980,
+      "path": "episodes/007/parts/002-host.mp3",
+      "sha256": "55132c1101a919ef45510b2703a5352bf6013dcc61acdcb44fc1e3f4658c17d0",
+      "size": 202752
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762671916530800,
+      "path": "episodes/007/parts/003-rowan.mp3",
+      "sha256": "8f66fd27e6f165c8c7dab27a7f65361787ff0e735c4a5f3cf7f4f505e74c3844",
+      "size": 67824
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762677237582480,
+      "path": "episodes/007/parts/004-host.mp3",
+      "sha256": "a32ee0e6d8d3a4168b486d5a20382a780957ad2c2084665d9f61e1cd217011b6",
+      "size": 35424
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762690512712139,
+      "path": "episodes/007/parts/005-rowan.mp3",
+      "sha256": "3004d2dfa14a59c9226523aa5683e8074747522d68f6a4102744063c58057743",
+      "size": 273456
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762690965716581,
+      "path": "episodes/007/parts/006-host.mp3",
+      "sha256": "390e13deda7ee39a817828772dfece2dbaaa1baf1b1aad36cd73442095735dd5",
+      "size": 25920
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762701667821881,
+      "path": "episodes/007/parts/007-rowan.mp3",
+      "sha256": "c269ac17984e282f60612e1f3fc583d63882e51794eeae8b1a769d4ebd0deacc",
+      "size": 187776
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762705833863048,
+      "path": "episodes/007/parts/008-host.mp3",
+      "sha256": "5e446305fb11e6f5e41b701e34bfe5589f7eb9035903679bf8bb721f7f8c9ae3",
+      "size": 16128
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762709876903092,
+      "path": "episodes/007/parts/009-rowan.mp3",
+      "sha256": "0b66396fe2c818488856dc55fd0da5428871fd3ca8af4422aadf52580908a69e",
+      "size": 132192
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762712668930800,
+      "path": "episodes/007/parts/010-host.mp3",
+      "sha256": "fa913b9ec431e6082b30ad39a50642db308da9f1e56fcf8c1716c2cebd2fae78",
+      "size": 10656
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762722321026917,
+      "path": "episodes/007/parts/011-rowan.mp3",
+      "sha256": "91c9d2d122cfb86ece6c74fdac31e69c217710dc9a8ddd1bd62373d061599281",
+      "size": 140688
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762733664140519,
+      "path": "episodes/007/parts/012-host.mp3",
+      "sha256": "ca3b694abeb9c1bc1d9de0e9d98f5098c8622005a30abea5cf354341d502539a",
+      "size": 74016
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762734277146678,
+      "path": "episodes/007/parts/013-rowan.mp3",
+      "sha256": "89772538763aa189d8a1975e26cb599d42389c85434d99891469d34b347993ba",
+      "size": 88416
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762740482209133,
+      "path": "episodes/007/parts/014-host.mp3",
+      "sha256": "2820a54395a2cae624f5ae29b57dfc9006f8b04de05d6c67ec4eb4d359e4b252",
+      "size": 30672
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762760189408820,
+      "path": "episodes/007/parts/015-rowan.mp3",
+      "sha256": "bd097d9785c57f86f1ad05b38d3ad58ade6c95f58c9866c83d4739217415122c",
+      "size": 227232
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762760693413953,
+      "path": "episodes/007/parts/016-host.mp3",
+      "sha256": "17da7e135de115df09cb5be679ba6e3c04f8514b8e5aaadadb48b583fe48f77d",
+      "size": 21888
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762774110551065,
+      "path": "episodes/007/parts/017-rowan.mp3",
+      "sha256": "4cf3b87df66e781be76cf84e5dfbd36b659ee9037d06177f0034200294f9c386",
+      "size": 170208
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762806426884903,
+      "path": "episodes/007/parts/018-host.mp3",
+      "sha256": "fe28267d3f78cbf28bd02ef3abc170b2c227a6f201218a034a07343fd5331ae5",
+      "size": 10656
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762807257893553,
+      "path": "episodes/007/parts/019-rowan.mp3",
+      "sha256": "1fad8142b554248a64575e3677d71c9f3fe8f867718a2fed88c95571a7b402f1",
+      "size": 173376
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762807859899820,
+      "path": "episodes/007/parts/020-host.mp3",
+      "sha256": "53a472176a33b4ab77a8fca087d10735d9d973e0a6e2f5d6c04bc0ccb7b851a9",
+      "size": 40176
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762808768909288,
+      "path": "episodes/007/parts/021-rowan.mp3",
+      "sha256": "c6a8d93697ff2daf56d1f611fee38eff3c0b58f9cfc6e3a7d1bdde8426c7fb7f",
+      "size": 153504
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762809216913955,
+      "path": "episodes/007/parts/022-host.mp3",
+      "sha256": "15d3b03930154a242400a5f13abfb4e4083fe383b5d04b9113188b478f816c8c",
+      "size": 40464
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762824915078080,
+      "path": "episodes/007/parts/023-rowan.mp3",
+      "sha256": "29ae54756c1881bf0f14ddcc6690c80affb464389a3e188244f558b038be46a3",
+      "size": 249552
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762825415083326,
+      "path": "episodes/007/parts/024-host.mp3",
+      "sha256": "f40a058876435bb057ec2846509dde26c5bb9fb7a42b4b824da915689135664a",
+      "size": 45216
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762837593211433,
+      "path": "episodes/007/parts/025-rowan.mp3",
+      "sha256": "3514466bffbcd2cc8d4fd4459bc07e9b9b864c2e89cc5439e500d8ab79d11fea",
+      "size": 199008
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762838035216095,
+      "path": "episodes/007/parts/026-host.mp3",
+      "sha256": "9ae7e28ab5f2e74ef949bb2f40370d602d8c7477c03f1ba9d4d18228ec22506e",
+      "size": 10656
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762852342367448,
+      "path": "episodes/007/parts/027-rowan.mp3",
+      "sha256": "b20dfc355d808f82b34cbd26fb5467ffc3bcaa8f4a47261d3f0482e0355f7fc9",
+      "size": 173664
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762853004374472,
+      "path": "episodes/007/parts/028-host.mp3",
+      "sha256": "5d108f48038e6ab7f8ba56242974e600fc2cc133678e8452e0255b4879caeafe",
+      "size": 28656
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762861540465210,
+      "path": "episodes/007/parts/029-rowan.mp3",
+      "sha256": "ffc43c7728c2ed03434637e9bd7a086e6b2298baf0ebde260da9bacfd1364e1b",
+      "size": 131328
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762873614594073,
+      "path": "episodes/007/parts/030-host.mp3",
+      "sha256": "0109e420fd409fd9f04b298848cf38e192b683ef0d9902a2e4dc056dedf4710a",
+      "size": 85392
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762884281708410,
+      "path": "episodes/007/parts/031-rowan.mp3",
+      "sha256": "19e8721b57d602dd7dd2b998e296683c0aaf0ffeb77700c8e75c581c43b07c04",
+      "size": 192096
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762884713713050,
+      "path": "episodes/007/parts/032-host.mp3",
+      "sha256": "a9b926937326e02a3405d023a7a7c5e30fae69f29c62757d454c9785cd389a1a",
+      "size": 12240
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762892085792345,
+      "path": "episodes/007/parts/033-rowan.mp3",
+      "sha256": "74dfbe49f9f22724a003b90b15a22220901179d15e593273e4584c81683cdc84",
+      "size": 117360
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762892673798679,
+      "path": "episodes/007/parts/034-host.mp3",
+      "sha256": "66d970ed4fa976e50057a153d0323d4e83e3dda5093d5a7aa2901d4ffded84f3",
+      "size": 37296
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762910396990216,
+      "path": "episodes/007/parts/035-rowan.mp3",
+      "sha256": "24af283e657c9ee171345eee1987788f56c38a37e516a5479d5100d7638335bd",
+      "size": 210240
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762910747994021,
+      "path": "episodes/007/parts/036-host.mp3",
+      "sha256": "9ea74033e3e56532062d3bb866d986261e7937c98b417664e4c51a6b1a7a3fa6",
+      "size": 17856
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762919473088764,
+      "path": "episodes/007/parts/037-rowan.mp3",
+      "sha256": "d749eaa8ee4d899084cca8d473b698a3690f6a2a67fac0d9aae65b1f1e4832ed",
+      "size": 116352
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762921985116093,
+      "path": "episodes/007/parts/038-host.mp3",
+      "sha256": "016e7d451ada4c10ec71347acf37ef85592b27bef5fad6d438f1880289be1e94",
+      "size": 11520
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762926276162831,
+      "path": "episodes/007/parts/039-rowan.mp3",
+      "sha256": "74d565d8cf48a4ee83839ccaa3e87699306d1f98e91304e52a0c6c7758afae48",
+      "size": 49392
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762944891366358,
+      "path": "episodes/007/parts/040-host.mp3",
+      "sha256": "1d2a114549d38d4c64a11d724408c9fe4e75c75dc9e0030592565b65a45e3b61",
+      "size": 124128
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762946559384655,
+      "path": "episodes/007/parts/041-rowan.mp3",
+      "sha256": "e187d022bc369412a267820af47dd8c3aebc1e9635aa85857dbb2751d59f1c93",
+      "size": 57888
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762947281392578,
+      "path": "episodes/007/parts/042-host.mp3",
+      "sha256": "128442cd4882920603519e8897a0f49980b6e9647382a562e049bf4692c181ba",
+      "size": 29088
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762527555742100,
+      "path": "episodes/007/review-panel.md",
+      "sha256": "07141cee850d8de222c7e430c5e433f4a1c98b30865ffe17783477743b814831",
+      "size": 3596
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762527554742086,
+      "path": "episodes/007/script.md",
+      "sha256": "4ac87797876d2e07918b529d5b910f902b816b8da729d37a6dfbe735e60c8412",
+      "size": 11872
+    },
+    {
+      "episode": "007",
+      "mtime_ns": 1787762949915421499,
+      "path": "episodes/007/when-does-a-game-trace-become-evidence.mp3",
+      "sha256": "0e4a6945ab265c887526dd2532f8000cee87ae55b93401ebf3d62352781e0f88",
+      "size": 12453164
+    }
+  ],
+  "generated_at": "2026-08-27T02:42:44Z",
+  "root": "/data/.openclaw/workspace/media/zotero-podcast",
+  "schema_version": 1,
+  "source_ownership": {
+    "25FRUUXF": [
+      "004"
+    ],
+    "3T6P8QGD": [
+      "007"
+    ],
+    "67TNQNST": [
+      "003"
+    ],
+    "6SLNA7ZV": [
+      "004"
+    ],
+    "97KF32WL": [
+      "005"
+    ],
+    "CP694EPH": [
+      "002"
+    ],
+    "CWE62TKC": [
+      "004"
+    ],
+    "E4V92SVH": [
+      "007"
+    ],
+    "EVXUJ7VA": [
+      "007"
+    ],
+    "LS4U9RDW": [
+      "002"
+    ],
+    "ME88PUW3": [
+      "006"
+    ],
+    "PMHSYCZM": [
+      "004"
+    ],
+    "R4GVL9SN": [
+      "002"
+    ],
+    "SNR97HXI": [
+      "002"
+    ],
+    "V52FZLXT": [
+      "003"
+    ],
+    "XDYFELXE": [
+      "002"
+    ],
+    "Z4RME73N": [
+      "002"
+    ]
+  }
+}

@@ -10,7 +10,7 @@ sys.path.insert(0, "/data/.openclaw/tools/two-voice-tts")
 import edge_tts
 import imageio_ffmpeg
 
-VOICE = {"host": "en-US-AvaMultilingualNeural", "rowan": "en-GB-RyanNeural"}
+VOICE = {"host": "en-US-AvaMultilingualNeural", "rowan": "en-GB-SoniaNeural"}
 RATE = {"host": "-3%", "rowan": "-5%"}
 
 

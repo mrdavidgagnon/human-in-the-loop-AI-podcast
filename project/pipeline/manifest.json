@@ -12,6 +12,7 @@
     "004": {"status": "published_and_moved", "guid": "human-in-the-loop-episode-004-the-feeling-learner-and-the-evidence-trail", "duration": "12:58", "sources": ["6SLNA7ZV", "25FRUUXF", "PMHSYCZM", "CWE62TKC"]},
     "005": {"status": "published_and_moved", "guid": "human-in-the-loop-episode-005-what-can-a-hundred-games-teach-a-teacher", "duration": "04:08", "sources": ["97KF32WL"]},
     "006": {"status": "published_and_moved", "guid": "human-in-the-loop-episode-006-can-play-become-evidence", "duration": "03:34", "sources": ["ME88PUW3"]}
+    ,"007": {"status": "published_pending_zotero_move", "guid": "human-in-the-loop-episode-007-when-does-a-game-trace-become-evidence", "duration": "12:58", "bytes": 12453164, "sources": ["EVXUJ7VA", "E4V92SVH", "3T6P8QGD"]}
   },
   "discovery": {"status": "complete_for_this_run", "imported": [{"key":"EVXUJ7VA","attachment":"KECJPWBF","doi":"10.18608/jla.2023.7681"},{"key":"E4V92SVH","attachment":"NGACMWJ3","doi":"10.1007/s10639-022-11087-4"},{"key":"3T6P8QGD","attachment":"RBH77UHV","doi":"10.1007/s11423-010-9183-0"}], "needs_full_text": [{"key":"I6KXM39M","collection":"4WAAFA26","doi":"10.1007/s11528-025-01142-5","status":"queued"}]},
   "moves": ["LS4U9RDW", "SNR97HXI", "Z4RME73N", "CP694EPH", "R4GVL9SN", "XDYFELXE", "67TNQNST", "PMHSYCZM", "V52FZLXT", "ME88PUW3", "6SLNA7ZV", "25FRUUXF", "97KF32WL", "CWE62TKC"],
