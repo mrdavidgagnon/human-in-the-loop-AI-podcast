@@ -25,4 +25,6 @@ The recommendation to treat a task as a conversation between construct and respo
 - Complete spoken citations for both focal sources confirmed.
 - Required Zotero show-notes reminder confirmed verbatim.
 - Full-text attachments verified by Zotero MD5; Zotero metadata matched the PDFs and current Crossref records for authors, title, venue, year, DOI, volume, issue, and pages.
-- Final three-reviewer gate, duration, audio integrity, RSS enclosure, stable GUID, RSS parsing, notes link, HTTP 200 responses, and byte-range response must be recorded before any Zotero move.
+- Three distinct reviewers passed the revised package with no unresolved revision.
+- Final audio: 12:37, 12,110,252 bytes, 128 kbps MP3; full decode passed; SHA-256 `1a1142b61f44be90db8aeef0f869297fa01fceab5f5e6dcee5451e2c93fbe13c`.
+- Stable GUID `human-in-the-loop-episode-010-can-a-picture-tell-us-what-a-child-values` appears once in the ten-item RSS feed. Live RSS and notes returned HTTP 200, and the enclosure returned HTTP 206 for a byte-range request with the expected total length.
