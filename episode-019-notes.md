@@ -61,18 +61,25 @@ external historical attribution. Any later addition of a historical trust
 claim, institutional case, or concept beyond the article must receive its own
 authoritative background research and complete spoken and written citation.
 
-## Drafting checkpoint
+## Production checkpoint
 
 - Focal Zotero source: `Q88QA94D`; imported attachment: `X8HFHQT2`.
 - The 241-author list was generated from live Zotero version 8132 and matched in
   normalized order against the current Crossref record on 2026-08-28.
-- The script includes complete spoken source metadata; opening and closing
-  fictional-correspondent and AI-summary disclosures; the exact Zotero-access
-  reminder; and explicit boundaries around sampling, measurement invariance,
-  language, cultural framing, country coverage, minority distrust, and causal
-  inference.
-- This package is a draft. The stable GUID
-  `human-in-the-loop-episode-019-can-science-ask-for-trust` and unique ownership
-  of focal parent `Q88QA94D` are reserved in the manifest. No reviewer verdict
-  is claimed, no review gate has been resolved, and no render, publication,
-  live verification, or Zotero collection move is represented here.
+- Three distinct reviewers required corrections to the priority-gap direction,
+  weighting description, author-name capitalization, and listenability of the
+  241-name spoken citation. Every revision was applied, all three reviewers
+  independently re-read the current package, and each returned PASS.
+- Deterministic preflight passed with 83 dialogue turns, the complete spoken and
+  written citation, the direct Field Day Zotero link, the exact Zotero-access
+  reminder, both required disclosures, and the source's sampling, measurement,
+  language, cultural-framing, country-coverage, minority-distrust, and causal
+  boundaries.
+- The final 128 kbps MP3 fully decodes, runs 18:25, is 17,688,236 bytes, and has
+  SHA-256 `56163f5ab8e0b024f6e6a6c082766f31d94b38319d0d446d24a6f4ecd72756e5`.
+  GitHub Pages commit `9bb3030` published the stable GUID
+  `human-in-the-loop-episode-019-can-science-ask-for-trust`. The live RSS and
+  notes returned HTTP 200, and the enclosure returned HTTP 206 with the exact
+  local byte length. Only after those checks passed, a version-guarded update
+  replaced Incoming with Podcasted for focal parent `Q88QA94D`; no item was
+  deleted and no unrelated collection membership was removed.
