@@ -30,4 +30,4 @@ The three-part account of trustworthy infrastructure—an inspectable inference 
 - Required Zotero show-notes reminder present verbatim.
 - Full-text Zotero attachments downloaded, MD5-verified, and extracted locally.
 - Metadata checked against the complete PDFs and the official Data & Society, Routledge, and Smithsonian repository records.
-- Independent review is pending. No reviewer verdict has been recorded, no rendering is authorized, and no publication or Zotero move has occurred.
+- Three distinct independent full-text reviewers passed the revised package with every required revision resolved; deterministic preflight and audio integrity checks passed. The 14:24 episode was published in the 12-item live feed, whose RSS and notes return HTTP 200 and whose 13,829,804-byte enclosure returns HTTP 206 to byte-range requests. Only after those gates passed, the three version-guarded source parents were moved from Incoming to Podcasted while preserving unrelated collection memberships.
