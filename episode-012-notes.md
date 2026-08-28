@@ -1,0 +1,33 @@
+# Episode 012 — Can a Data Pipeline Earn Trust?
+
+Playful, dramatized interview with fictional research correspondent Dr. Rowan Field about the inferential, governance, and stewardship obligations surrounding learning-data infrastructure. Rowan is a fictional composite; no cited author was interviewed or is speaking through Rowan. The dialogue is a synthesis and paraphrase that preserves evidence limits. This is an AI-generated summary that may contain errors and is not a substitute for reading the cited sources.
+
+## Sources
+
+1. Robert J. Mislevy, Seth Corrigan, Andreas Oranje, Kristen DiCerbo, Malcolm I. Bauer, Alina von Davier, and Michael John. “Psychometrics and Game-Based Assessment.” In *Technology and Testing: Improving Educational and Psychological Measurement*, edited by Fritz Drasgow, pages 23–48. Routledge (2016). [Open in the Field Day Zotero library](https://www.zotero.org/groups/2412036/field_day/items/3FWNHSMT) · [Publisher record for the complete volume](https://www.routledge.com/Technology-and-Testing-Improving-Educational-and-Psychological-Measure/Drasgow/p/book/9780415717168)
+   - Evidence: a scholarly design and psychometrics chapter connecting game-based assessment to evidence-centered design. It distinguishes intended capabilities, situations that elicit actions, observed work products or traces, and evidence models that connect observations to inferences. It describes uses ranging from in-game adaptation and formative feedback to end-of-course, accountability, and survey applications, and explains tensions among game, learning, and assessment design.
+   - Boundary: this is a methodological chapter with frameworks and examples, not a single intervention study, systematic review, or meta-analysis establishing that game-based assessment improves learning. No particular trace interprets itself, and evidence adequate for a low-stakes adaptive decision may be inadequate for a consequential judgment. Any implemented assessment still requires validity evidence for its intended purpose, population, and context.
+
+2. Monica Bulger, Patrick McCormick, and Mikaela Pitcan. “The Legacy of inBloom.” Data & Society Research Institute working paper (2017). [Open in the Field Day Zotero library](https://www.zotero.org/groups/2412036/field_day/items/ULUE6DYQ) · [Public institute record and report](https://datasociety.net/library/the-legacy-of-inbloom/)
+   - Evidence: a retrospective case study of the large-scale educational-data initiative based on 18 semi-structured interviews conducted from October 2015 through December 2016. Participants were identified through expert networks, literature review, recommendations, and snowball sampling. The study examines the interaction among ambitious scope, technical design, software-development culture, education governance, public communication, uncertainty, privacy concerns, stakeholder buy-in, and the initiative’s aftermath.
+   - Boundary: the listed interview sample includes no students or classroom teachers and is weighted toward institutional, technical, and advocacy actors, with very limited direct parent representation. It therefore cannot establish how the broader population experienced inBloom. The study reconstructs perspectives and identifies themes but does not estimate causal effects, determine whether the platform would have improved instruction or learning, or establish that every open or large-scale educational-data initiative will follow the same path.
+
+3. National Science and Technology Council, through its Subcommittee on Open Science. *Desirable Characteristics of Data Repositories for Federally Funded Research*. Executive Office of the President of the United States (2022). [Open in the Field Day Zotero library](https://www.zotero.org/groups/2412036/field_day/items/PUJVBPM7) · [DOI and repository record](https://doi.org/10.5479/10088/113528)
+   - Evidence: federal consensus guidance identifying repository characteristics across organizational infrastructure, digital-object management, and technology. It begins with broad, equitable, and maximally open access, free and timely where possible, subject to privacy, confidentiality, sovereignty, and sensitive-data protections. It also addresses access and use guidance, risk management, retention, organizational and technical sustainability, persistent identifiers, metadata, curation and quality assurance, common formats, provenance, authentication, security, and additional safeguards specifically for de-identified human data, including fidelity to consent, restricted access, use limitations, download controls, request review, breach planning, and accountability.
+   - Boundary: this is a normative policy-guidance document, not an empirical evaluation or ranking of repositories. It explicitly describes the characteristics as nonexhaustive and does not by itself certify any repository as acceptable. Agencies, institutions, researchers, communities, and oversight bodies still have to apply the guidance to specific data, consent conditions, legal duties, sovereignty claims, risks, and uses.
+
+## Episode synthesis
+
+The three-part account of trustworthy infrastructure—an inspectable inference argument, legitimate and contestable governance, and durable stewardship—is this episode’s synthesis. The focal sources did not jointly study OpenGameData, learning-data commons, or AI models trained on game traces. Applying the framework to those systems requires additional evidence: construct definitions, source and transformation provenance, consent and access authority, tests of model behavior across people and contexts, separation of low-stakes feedback from consequential decisions, explicit prohibited uses, accessible contest mechanisms, and human review. More available data do not themselves establish valid meaning, legitimate use, or responsible preservation.
+
+## Production checkpoint
+
+- Host target: `en-US-AvaMultilingualNeural`, rate `-3%`.
+- Rowan Field target: `en-GB-SoniaNeural`, rate `-5%`; fictional and composite.
+- Spoken fictional-correspondent disclosure present near the opening and close.
+- Spoken AI-summary disclosure present near the opening and close.
+- Complete spoken and written citations for all three focal sources drafted.
+- Required Zotero show-notes reminder present verbatim.
+- Full-text Zotero attachments downloaded, MD5-verified, and extracted locally.
+- Metadata checked against the complete PDFs and the official Data & Society, Routledge, and Smithsonian repository records.
+- Independent review is pending. No reviewer verdict has been recorded, no rendering is authorized, and no publication or Zotero move has occurred.
