@@ -1,0 +1,33 @@
+# Episode 013 — What Is Public Media For?
+
+Playful, dramatized interview with fictional research correspondent Dr. Rowan Field about preschool educational television, the institutional development of American public broadcasting, and a proposed digital information commons. Rowan is a fictional composite; no cited author was interviewed or is speaking through Rowan. The dialogue is a synthesis and paraphrase that preserves evidence limits. This is an AI-generated summary that may contain errors and is not a substitute for reading the cited sources.
+
+## Sources
+
+1. Joan Ganz Cooney. *The Potential Uses of Television in Preschool Education*. Report to the Carnegie Corporation of New York dated 1966; Zotero and ERIC records list 1967; original, unedited report reissued by the Joan Ganz Cooney Center at Sesame Workshop in 2019. [Open in the Field Day Zotero library](https://www.zotero.org/groups/2412036/field_day/items/GZKBM9B2) · [Searchable 2019 reissue and publication record](https://joanganzcooneycenter.org/publication/potential-uses-of-television-in-preschool-education/)
+   - Evidence: a formative feasibility and design report based on consultation with educators, child-development researchers, broadcasters, producers, and others, together with research into visual material that could be used or adapted for television. It recommends an experimental, regularly scheduled preschool television series that joins entertainment with explicit intellectual and cultural aims, considers language, numbers, science, music, stories, visual demonstration, repetition, and parent engagement, and calls for research and evaluation.
+   - Boundary: this is not an outcome evaluation of the later *Sesame Street* program and does not establish that television alone improves learning or overcomes unequal access to preschool education. The date is deliberately explicit: Zotero and ERIC catalogue the report as 1967, the Cooney Center describes it as written in 1966, and the complete searchable version used here is the Center’s 2019 reissue.
+
+2. Josh Shepperd. *Shadow of the New Deal: The Victory of Public Broadcasting*. University of Illinois Press (2023). [Open in the Field Day Zotero library](https://www.zotero.org/groups/2412036/field_day/items/5P5B3SW7) · [Publisher record](https://www.press.uillinois.edu/books/?id=p087257)
+   - Evidence: an archival media history tracing the educators, researchers, philanthropic foundations, universities, federal agencies, noncommercial broadcasters, advocates, regulation, research practices, funding arrangements, and infrastructure that helped make American public broadcasting possible. It treats the later national system as a contingent institutional achievement built across decades rather than an inevitable consequence of television technology or a single 1967 event.
+   - Boundary: the book supports historical interpretation of institutional development and what Shepperd describes as an economy of promise. It is not a contemporary causal estimate of public broadcasting’s effects on learning, trust, political knowledge, community cohesion, or other outcomes. Shepperd explicitly cautions that the central actors in the period studied were largely white men at privileged universities and did not work with many of the diverse groups named in educational broadcasting’s mission; public-purpose institution building should not be mistaken for inclusive public participation.
+
+3. Blair Levin. *Public Media at 50: What’s Next for the Information Commons?* Knight Foundation (2017). [Open in the Field Day Zotero library](https://www.zotero.org/groups/2412036/field_day/items/65LT6UDL) · [Knight Foundation series record](https://knightfoundation.org/articles/research/public-media-at-50-a-white-paper-series/)
+   - Evidence: a commissioned policy white paper arguing that public media’s public-interest mission persists in a broadband environment while its strategies should change. It proposes understanding public media as infrastructure for a community information commons and discusses digital and local capacity, collaboration, public-service information, educational resources, data journalism, and partnerships connecting national reach with local needs.
+   - Boundary: this is a normative and strategic proposal, not an empirical test that an information-commons model improves learning, trust, journalism, participation, or civic outcomes. The live Zotero parent incorrectly names Timothy Carney; the attached essay, author biography, Knight series page, and dedicated Knight PDF identify Blair Levin as the author. That correction is used here without altering the source item.
+
+## Episode synthesis
+
+The three-part account—design media around explicit public needs, sustain institutional capacity for work markets may neglect, and adapt that capacity as technologies and communities change—is this episode’s synthesis. The sources did not jointly study contemporary learning-game platforms, OpenGameData, or a national research infrastructure. Applying their ideas to those projects requires additional evidence and governance: formative research with learners and educators, explicit educational purposes and outcome measures, durable public-interest capacity, transparent access and privacy rules, meaningful local and community participation, editorial independence, and ways for affected people to contest priorities and claims. Availability alone does not make a resource a commons, and public branding does not establish public accountability.
+
+## Production checkpoint
+
+- Host target: `en-US-AvaMultilingualNeural`, rate `-3%`.
+- Rowan Field target: `en-GB-SoniaNeural`, rate `-5%`; fictional and composite.
+- Spoken fictional-correspondent disclosure present near the opening and close.
+- Spoken AI-summary disclosure present near the opening and close.
+- Complete spoken and written citations for all three focal sources drafted.
+- Required Zotero show-notes reminder present verbatim.
+- Zotero attachments downloaded and MD5-verified; complete searchable verification copies retained where the Zotero scan or parent metadata is inadequate.
+- Metadata checked against the complete sources and authoritative Knight Foundation, University of Illinois Press, Cooney Center, and ERIC records.
+- Three distinct independent full-text reviewers passed the revised package with every required revision resolved; deterministic preflight and full audio decoding passed. The rendered 128 kbps MP3 runs 11:26, is 10,981,292 bytes, and has SHA-256 `54fce9bf1674359a28a32bc06d9ec1b5a6b7ce1d85c7253911f6e8eae09ace91`. No feed artifact has been changed, no live publication check has been attempted, and no Zotero item has been moved.
