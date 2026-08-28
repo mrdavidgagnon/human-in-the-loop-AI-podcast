@@ -25,4 +25,5 @@ The distinction among system affordances, narrative or challenge-based absorptio
 - Complete spoken citations for both focal sources confirmed.
 - Required Zotero show-notes reminder confirmed verbatim.
 - Full-text Zotero attachments verified by MD5 and extracted locally. The first parent’s Zotero record is incomplete and misclassified as a journal article; its complete chapter title, year, host book, publisher, DOI, chapter number, and authors were verified against the complete PDF, Oxford University Press, and Aalborg University’s research portal. The second source metadata was verified against the complete publisher PDF and Aalborg University’s research portal.
-- Independent three-reviewer examination is pending. No render or publication is authorized before all required revisions are resolved and the deterministic review gate passes.
+- Three distinct independent reviewers examined the complete sources, script, and notes; all required revisions were resolved, all three separately passed the revised package, and the deterministic review gate passed before rendering.
+- Final audio: 12:09, 11,657,900 bytes, 128 kbps MP3; full decode and deterministic audio preflight passed. Stable GUID: `human-in-the-loop-episode-011-what-makes-a-virtual-world-feel-like-somewhere`.
