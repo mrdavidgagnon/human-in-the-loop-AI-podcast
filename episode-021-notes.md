@@ -89,6 +89,8 @@ written citation.
   `f16e19f23c112f333fd0c53398e1946a6a7851082d60479a1fd9eb7ed14ba05c`.
 - Stable GUID `human-in-the-loop-episode-021-can-laughter-keep-its-innocence`
   and unique focal-source ownership are reserved in the durable manifest.
-  Local publication, remote deployment, live RSS/HTTP/enclosure/range checks,
-  and the version-guarded Zotero move have not yet occurred and are not claimed
-  here.
+- GitHub Pages commit `59aa9ed` published the MP3, notes, RSS entry, and index.
+  The live 18-item RSS returned HTTP 200 and contains the stable GUID exactly
+  once; the notes returned HTTP 200; and the episode's 11,995,436-byte enclosure
+  returned HTTP 206 with the exact byte-range total. The version-guarded Zotero
+  move has not yet occurred and is not claimed here.
