@@ -91,12 +91,11 @@ and its own complete spoken and written citation.
   A 19-item local feed parses successfully; the stable GUID
   `human-in-the-loop-episode-022-when-fantasy-shows-the-seam` occurs once and
   its local enclosure length exactly matches the MP3.
-- The feed and audio are already deployed: live RSS returns HTTP 200 with 19
-  items and one Episode 022 GUID, and the live audio returns HTTP 206 with an
-  exact total of 12,081,452 bytes. The production-facts correction in these
-  source notes postdates the current local and live notes copies. Synchronizing
-  the revised notes into `feed-site`, repeating local publication verification,
-  deploying that corrected notes file, and verifying its exact live content
-  remain pending. Only after those checks may the fresh version-guarded Zotero
-  move from Incoming to Podcasted occur. No Zotero collection change is claimed
-  here.
+- The feed and audio are deployed: live RSS returns HTTP 200 with 19 items and
+  one Episode 022 GUID, and the live audio returns HTTP 206 with an exact total
+  of 12,081,452 bytes. The corrected production notes were synchronized into
+  `feed-site`, local publication verification passed again, and GitHub Pages
+  commit `4a1870f` deployed them. The live notes return HTTP 200 and match the
+  local copy byte for byte.
+  Only the fresh version-guarded Zotero move from Incoming to Podcasted remains
+  pending. No Zotero collection change is claimed here.
