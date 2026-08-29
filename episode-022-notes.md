@@ -66,7 +66,7 @@ claims about disability, trauma, abuse, suicide, gender, audience response, or
 film effects. Any such addition would require a primary or authoritative source
 and its own complete spoken and written citation.
 
-## Production checkpoint
+## Production
 
 - Focal Zotero parent: `L8CLJHPT`; imported full-text attachment: `88E4MUQK`.
 - The direct Field Day group-library link and official Columbia University
@@ -78,9 +78,25 @@ and its own complete spoken and written citation.
   fictional-correspondent and AI-summary disclosures; the exact Zotero-access
   reminder; and explicit theoretical, interpretive, audience, causal,
   educational, clinical, historical, and political boundaries.
-- Three distinct independent reviewers, deterministic preflight, audio
-  rendering and integrity checks, local and remote publication, stable
-  RSS/GUID/enclosure checks, live HTTP 200 and byte-range 206 verification, and
-  the fresh version-guarded Zotero move remain pending and mandatory in order.
-- No audio, feed, remote publication, or Zotero collection membership is
-  claimed at this drafting checkpoint.
+- Three distinct independent reviewers read the complete source package,
+  required revisions, re-read the revised artifacts, and returned final PASS
+  verdicts with no unresolved language, including confirmation of the evidence
+  boundaries and the opening and closing disclosures. Deterministic
+  audio-inclusive preflight passes with 69 alternating dialogue turns, the
+  numbered notes citation and direct Zotero-link structure, the presence of the
+  required fictional-correspondent and AI-summary disclosure language, the
+  exact Zotero reminder, the review gate, and one non-empty MP3.
+- The 69-part resumable render produced `episode-022.mp3`: 12,081,452 bytes,
+  SHA-256 `cc6d50f9a9e4de56a4808c71a909e39e849db3a78874ad9ace8855eee0bc92a1`.
+  A 19-item local feed parses successfully; the stable GUID
+  `human-in-the-loop-episode-022-when-fantasy-shows-the-seam` occurs once and
+  its local enclosure length exactly matches the MP3.
+- The feed and audio are already deployed: live RSS returns HTTP 200 with 19
+  items and one Episode 022 GUID, and the live audio returns HTTP 206 with an
+  exact total of 12,081,452 bytes. The production-facts correction in these
+  source notes postdates the current local and live notes copies. Synchronizing
+  the revised notes into `feed-site`, repeating local publication verification,
+  deploying that corrected notes file, and verifying its exact live content
+  remain pending. Only after those checks may the fresh version-guarded Zotero
+  move from Incoming to Podcasted occur. No Zotero collection change is claimed
+  here.
