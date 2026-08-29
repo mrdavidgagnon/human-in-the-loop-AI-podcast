@@ -100,5 +100,8 @@ authoritative source and its own complete spoken and written citation.
   HTTP 206 with a total length of 10,411,820 bytes; whole-feed remote
   verification passes. The known legacy Episode 001 notes warning remains
   unrelated and non-blocking.
-- The fresh version-guarded Zotero move remains pending. No completion of that
-  final gate is claimed.
+- Only after every editorial, deterministic, audio, local, remote, and live-
+  facts gate passed, the version-guarded mover changed focal parent
+  `7M7XVMY5` from version 8126 Incoming-only to live version 8340 Podcasted-
+  only. No item was deleted and no unrelated collection membership was
+  removed. Authoritative Incoming now contains seven top-level parents.
