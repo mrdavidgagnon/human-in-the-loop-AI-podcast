@@ -95,7 +95,7 @@ and its own complete spoken and written citation.
   one Episode 022 GUID, and the live audio returns HTTP 206 with an exact total
   of 12,081,452 bytes. The corrected production notes were synchronized into
   `feed-site`, local publication verification passed again, and GitHub Pages
-  commit `4a1870f` deployed them. The live notes return HTTP 200 and match the
-  local copy byte for byte.
+  deployed them. The live notes return HTTP 200 and match the local copy byte
+  for byte.
   Only the fresh version-guarded Zotero move from Incoming to Podcasted remains
   pending. No Zotero collection change is claimed here.
