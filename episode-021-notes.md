@@ -92,5 +92,10 @@ written citation.
 - GitHub Pages commit `59aa9ed` published the MP3, notes, RSS entry, and index.
   The live 18-item RSS returned HTTP 200 and contains the stable GUID exactly
   once; the notes returned HTTP 200; and the episode's 11,995,436-byte enclosure
-  returned HTTP 206 with the exact byte-range total. The version-guarded Zotero
-  move has not yet occurred and is not claimed here.
+  returned HTTP 206 with the exact byte-range total.
+- Only after those gates passed, the version-guarded Zotero update moved focal
+  parent `8DGXDA4Q` from version 8161 to live version 8337, replacing Incoming
+  with Podcasted. A fresh read confirmed the parent appears exactly once in
+  Podcasted and no longer appears in Incoming; attachment `BUMG5QYB` remains
+  its unchanged child at version 8254. No item was deleted and no unrelated
+  collection membership was removed.
