@@ -135,8 +135,13 @@ surname; it does not supply episode content.
   institutional, implementation, and generalizability boundaries.
 - Stable GUID and manifest ownership are reserved. Three distinct reviewers
   passed the exact revised package with every required revision resolved, and
-  deterministic reviewed preflight passes. Render, audio integrity,
-  publication, live verification, and the version-guarded Zotero move remain
-  pending in that order.
+  deterministic reviewed preflight passes.
+- The corrected 15:46.80 audio fully decodes, has no saturated samples, and is
+  15,149,228 bytes with SHA-256
+  `cd4e8579195796afb06f24ed2508e71d5326fa7520271d1378c1df6683710b7b`.
+  Local and live feed, GUID, enclosure, notes HTTP 200, and audio range HTTP
+  206 checks passed. Only after those gates passed, the version-guarded Zotero
+  update moved parent `PHUJRZP5` from Incoming to Podcasted at live version
+  8341; no item was deleted and no unrelated membership was removed.
 
 [zotero.org-PHUJRZP5]: https://www.zotero.org/groups/2412036/items/PHUJRZP5
