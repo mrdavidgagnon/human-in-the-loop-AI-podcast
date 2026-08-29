@@ -94,6 +94,11 @@ authoritative source and its own complete spoken and written citation.
   stable unique GUID `human-in-the-loop-episode-024-what-can-a-tear-tell-us`,
   and its local enclosure is the exact 10,411,820-byte reviewed MP3. The known
   legacy Episode 001 missing-notes warning is unrelated and non-blocking.
-- Remote deployment, live feed and notes HTTP 200 checks, audio byte-range 206
-  verification, and the version-guarded Zotero move remain pending. No
-  completion of those later gates is claimed.
+- GitHub Pages commit `dfb287d` deployed the reviewed feed, notes, index, and
+  audio. The live 21-item feed and Episode 024 notes return HTTP 200 and
+  byte-match local; the stable GUID occurs once; the Episode 024 audio returns
+  HTTP 206 with a total length of 10,411,820 bytes; whole-feed remote
+  verification passes. The known legacy Episode 001 notes warning remains
+  unrelated and non-blocking.
+- The fresh version-guarded Zotero move remains pending. No completion of that
+  final gate is claimed.
