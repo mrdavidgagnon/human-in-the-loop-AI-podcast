@@ -89,10 +89,10 @@ written citation.
   `episode-023.mp3`. A full ffmpeg decode passed. The 128 kbps MP3 runs
   13:40.49, is 13,128,236 bytes, and has SHA-256
   `30f5ade5456d825f5b5a5220b19f3e259b8dc90c8515ad0b44691c848f26c268`.
-- Local publication and deterministic feed checks passed: the feed parses with
-  20 items, the stable GUID
-  `human-in-the-loop-episode-023-what-happens-in-the-gap` is unique, and the
-  local enclosure is exactly 13,128,236 bytes. Remote deployment, live RSS and
-  notes HTTP 200 checks, live audio byte-range 206 verification, and the fresh
-  version-guarded Zotero move remain pending. No remote publication or Zotero
-  collection change is claimed here.
+- Local and remote publication checks passed. The live feed and notes return
+  HTTP 200 and byte-match the reviewed local files; the feed parses with 20
+  items; the stable GUID
+  `human-in-the-loop-episode-023-what-happens-in-the-gap` occurs exactly once;
+  and the live audio returns byte-range HTTP 206 with a total of 13,128,236
+  bytes. At this reviewed checkpoint, the fresh version-guarded Zotero move
+  remained pending; no Zotero collection change is claimed by this checkpoint.
